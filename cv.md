@@ -34,7 +34,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2016-2021</dt>	
-	<dd><strong>PhD Student</strong>: Phonetics, <em>Saarland University, Saarbrücken, Germany</em><br>
+	<dd><strong>Doctor of Philosophy</strong>: Phonetics, <em>Saarland University, Saarbrücken, Germany</em><br>
 	<p style="color:#699eb5">&#8594; thesis defended: December 9, 2021</p></dd>
 </dl>
 
