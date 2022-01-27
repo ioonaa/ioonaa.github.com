@@ -35,19 +35,19 @@ permalink: /cv/
 <dl>
 	<dt>2016-2021</dt>	
 	<dd><strong>Doctor of Philosophy</strong>: Phonetics, <em>Saarland University, Saarbrücken, Germany</em><br>
-	&#8594; thesis topic: phonetic accommodation of humans communicating with a spoken dialog system</dd>
+	Thesis topic: phonetic accommodation of humans communicating with a spoken dialog system</dd>
 </dl>
 
 <dl>
 	<dt>2012-2014</dt>	
 	<dd><strong>Master of Arts</strong>: Speech Science – Phonetics, <em>University of Marburg, Germany</em><br>
-	&#8594; thesis topic: foreign accent imitation and intelligibility in a forensic context</dd>
+	Thesis topic: foreign accent imitation and intelligibility in a forensic context</dd>
 </dl>
 
 <dl>
 	<dt>2008-2012</dt>	
 	<dd><strong>Bachelor of Arts</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em><br>
-	&#8594; thesis topic: authenticity of French pronunciation in native speakers of German</dd>
+	Thesis topic: authenticity of French pronunciation in native speakers of German</dd>
 	
 </dl>
 
