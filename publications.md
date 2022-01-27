@@ -7,11 +7,15 @@ permalink: /publications/
 ...and Presentations
 
 Search for keywords:<br> 
-<strong>[Journal / Conference / Workshop / Colloquium,<br>
+<strong>[Journal / Conference / Workshop / Colloquium / Dissertation,<br>
 Full Paper / Position Paper / Abstract,<br> 
 Talk / Poster / Accepted]</strong>
 
 <dl>
+   <dt>2022</dt>	 
+        <dd><strong>I. Gessinger</strong>: <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]</dd>
+   
+   
    <dt>2021</dt>	 
         <dd><strong>I. Gessinger</strong>, B. Möbius, S. Le Maguer, E. Raveh, I. Steiner: <a href="https://www.sciencedirect.com/science/article/pii/S0095447021000012" target="_blank" rel="noopener"><em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor: a Wizard-of-Oz Study.</em></a> In: Journal of Phonetics 86, 101029<br> [Journal, <a href="https://doi.org/10.1016/j.wocn.2021.101029" target="_blank" rel="noopener">DOI</a>]</dd>
    
