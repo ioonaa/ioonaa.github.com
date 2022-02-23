@@ -4,7 +4,8 @@ title: Proceedings of SpoHuMa21 available
 ---
 
 The proceedings of our conference about <strong>human perspectives on spoken human-machine interaction</strong> (HMI) are now available 
-<a href="https://doi.org/10.6094/UNIFR/223814" target="_blank" rel="noopener">online</a>. #openaccess &#128275;
+<strong><a href="https://doi.org/10.6094/UNIFR/223814" target="_blank" rel="noopener">online</a></strong>. 
+&#128214; <em>#openaccess</em> &#128275;
 
 The papers presented at SpoHuMa21 explore spoken HMI from various angles. 
 The contributions by <strong>Ibrahim & Skantze</strong> and <strong>Sinha & Siegert</strong> examine how human speech in HMI changes depending 
