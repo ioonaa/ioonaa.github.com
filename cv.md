@@ -8,7 +8,7 @@ permalink: /cv/
 <dl>
 	<dt>since 2022</dt>	
 	<dd><strong>Research Associate</strong>, <em>University College Dublin, Ireland</em></dd>
-	<dd>HCI@UCD Group, School of Information & Communication Studies.</dd>
+	<dd>HCI@UCD group at the School of Information and Communication Studies.</dd>
 </dl>
 
 <dl>
