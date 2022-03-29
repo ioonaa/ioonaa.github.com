@@ -6,7 +6,13 @@ permalink: /cv/
 
 ## Work
 <dl>
-	<dt>since 2016</dt>	
+	<dt>since 2022</dt>	
+	<dd><strong>Research Associate</strong>, <em>University College Dublin, Ireland</em></dd>
+	<dd>HCI@UCD Group, School of Information & Communication Studies.</dd>
+</dl>
+
+<dl>
+	<dt>2016-2022</dt>	
 	<dd><strong>Research Associate</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
 	<dd>Phonetics and Phonology group at department of Language Science and Technology.</dd>
 	<dd>Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a>, funded by Deutsche Forschungsgemeinschaft (DFG)</dd>
