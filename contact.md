@@ -7,26 +7,28 @@ permalink: /contact/
 <table>
   <tbody>
     <tr>
-      <td>Postal address:</td>
+      <td>Address:</td>
       <td>Iona Gessinger <br>
-          Universität des Saarlandes <br>
-          Campus C7.2, 4.09 <br>
-          66123 Saarbrücken <br> 
-      	Germany</td>
+        University College Dublin <br> 
+        School of Information and Communication Studies <br> 
+        Newman Building <br>
+        Belfield, Dublin 4 <br>
+        Ireland </td>
     </tr>
     <tr>
       <td>Office:</td>
-      <td>Building C7.2, Room 4.09</td>
+      <td>TBA</td>
     </tr>         
     <tr>
       <td>Telephone:</td>
-      <td>+49 (0)681 302 4689</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td>E-mail:</td>
-      <td>gessinger AT coli DOT uni-saarland DOT de</td>
+      <td>iona DOT gessinger AT ucd DOT ie</td>
     </tr>
   </tbody>
 </table>
 
 ![Foto]({{ site.url }}/images/c72.jpg "Campus C72"){:height="260px" .center-image}
+Saarland University - Campus C7.2
