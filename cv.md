@@ -60,6 +60,12 @@ permalink: /cv/
 ## Other
 
 <dl>
+	<dt>2022</dt>	
+	<dd><strong>Co-organizer</strong><br>
+	<em>Young Female Researchers in Speech Workshop</em></dd>
+</dl>
+
+<dl>
 	<dt>2021</dt>	
 	<dd><strong>Co-organizer</strong><br>
 	<em>Conference: Human Perspectives on Spoken Human-Machine Interaction</em><br>
@@ -95,7 +101,7 @@ permalink: /cv/
 </dl>
 
 <dl>
-	<dt>since 2016</dt>	
+	<dt>2016-2022</dt>	
 	<dd><strong>Associated member of SFB 1102: <i>Information Density and Linguistic Encoding</i> and its Integrated Research Training Group (IGK)</strong><br>
 	<em>Saarland University, Saarbrücken, Germany</em><br>
 	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]<br>
