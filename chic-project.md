@@ -18,15 +18,16 @@ In the second funding phase, we extended the experimental approach to a <strong>
 
 The project also aims to develop a quantitative model of phonetic convergence in spoken HCI, build synthetic voices that are capable of adapting their speech output to the user's speech patterns, and derive implications for the design of conversational interfaces in speech technology.
 
-Find publications of the CHIC project <a href="https://ioonaa.github.io/publications/" target="_blank" rel="noopener">here</a> and <a href="https://www.mmci.uni-saarland.de/en/eraveh" target="_blank" rel="noopener">here</a>.
+Find publications of the CHIC project <a href="https://ioonaa.github.io/publications/" target="_blank" rel="noopener">here</a>.
 
-Current and past collaborators (including student assistants) of the CHIC project are (in alphabetical order):
+Past collaborators (including student assistants) of the CHIC project are (in alphabetical order):
 <ul>
   <li><strong>Bistra Andreeva</strong> (Saarland University)</li>
-  <li><strong>Nauman Fakhar</strong> (Saarland University)</li>
   <li><strong>Sébastien Le Maguer</strong> (Trinity College Dublin)</li>
-  <li><strong>Jens Neuerburg</strong> (Saarland University)</li>
-  <li><strong>Johannah O'Mahony</strong> (Nuance Communications)</li>
   <li><strong>Antje Schweitzer</strong> (University of Stuttgart)</li>
+  <li><strong>Nauman Fakhar</strong> (Saarland University)</li>
+  <li><strong>Jens Neuerburg</strong> (Saarland University)</li>
+  <li><strong>Katie Ann Dunfield</strong> (Saarland University)</li>
+  <li><strong>Johannah O'Mahony</strong> (Nuance Communications)</li>
   <!-- <li><strong>Ingo Siegert</strong> (Otto-von-Guericke University, Magdeburg)</li> -->
 </ul> 
