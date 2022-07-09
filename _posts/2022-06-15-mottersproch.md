@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: E-book "Mottersproch" &#128214; (June 15, 2022)
+title: E-book "Mottersproch" &#128214;
 ---
 
 Today we celebrated the publication of the e-book:
