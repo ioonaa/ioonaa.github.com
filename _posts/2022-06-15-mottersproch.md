@@ -17,6 +17,7 @@ In this book, scholars and researchers in German and Romance languages from Braz
 The book is an irrefusable invitation to reflect on the role of the mother tongue in education and science, and an invaluable contribution to the visibility of issues that permeate various situations of social life.
 </blockquote>
 
+I had the pleasure of contributing a text about a song in "Hohenlohisch" set to music by my grandfather Julius Gessinger.
 The e-book can be downloaded from the website of the <a href="https://cdea.tche.br/site/?p=7405" target="_blank" rel="noopener"><strong>Center of German and European studies</strong></a> (Porto Alegre/Brazil).
 
 
