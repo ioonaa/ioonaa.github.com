@@ -15,14 +15,16 @@ permalink: /contact/
         Belfield, Dublin 4 <br>
         Ireland </td>
     </tr>
+<! --
     <tr>
       <td>Office:</td>
       <td>TBA</td>
-    </tr>         
+    </tr> 
     <tr>
       <td>Telephone:</td>
       <td>TBA</td>
     </tr>
+-->
     <tr>
       <td>E-mail:</td>
       <td>iona DOT gessinger AT ucd DOT ie</td>
