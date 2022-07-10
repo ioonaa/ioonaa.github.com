@@ -30,5 +30,7 @@ permalink: /contact/
   </tbody>
 </table>
 
+<! --
 ![Foto]({{ site.url }}/images/c72.jpg "Campus C72"){:height="260px" .center-image}
 Saarland University, Campus C7.2
+-->
