@@ -7,7 +7,7 @@ title: E-book "Mottersproch" &#128214;
 Today we celebrated the publication of the e-book:
 <strong>“Die Mottersproch in der Vielfalt des Deutschen / A língua materna na diversidade do alemão”</strong> 
 edited by Cléo V. Altenhofen, Lucas Löff Machado, Claudia Wolff Pavan, and Willian Radünz 
-(Editora Fundação Fénix, 366 p., ISBN: 978-65-81110-78-9, DOI: 10.36592/9786581110789
+(Editora Fundação Fénix, 366 p., ISBN: 978-65-81110-78-9, DOI: 10.36592/9786581110789)
 
 ![Foto]({{ site.url }}/images/mottersproch.jpg "E-book "Mottersproch""){:height="300" .center-image}
 
