@@ -10,10 +10,7 @@ edited by Cléo V. Altenhofen, Lucas Löff Machado, Claudia Wolff Pavan, and Wil
 (Editora Fundação Fénix, 366 p., ISBN: 978-65-81110-78-9, DOI: 10.36592/9786581110789
 
 <blockquote>
-Much has been written about the mother tongue and its significance for the formation and identity of an individual. 
-However, what is the significance of the "minority" mother tongue, the knowledge acquired "at home" and "on the street"? 
-And how can this knowledge be recognized and optimized in education and society? 
-In this book, scholars and researchers in German and Romance languages from Brazil and Germany address questions on the diversity of the German regional and immigration languages in a collection of 32 texts in a bilingual version in German (and varieties) plus Portuguese. 
+In this book, scholars and researchers from Brazil and Germany address questions on the diversity of the German regional and immigration languages in a collection of 32 texts in a bilingual version in German (and varieties) plus Portuguese. 
 The book is an irrefusable invitation to reflect on the role of the mother tongue in education and science, and an invaluable contribution to the visibility of issues that permeate the various situations of social life.
 </blockquote>
 
