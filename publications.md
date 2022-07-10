@@ -13,6 +13,13 @@ Talk / Poster / Accepted]</strong>
 
 <dl>
    <dt>2022</dt>	 
+   <dd><strong>I. Gessinger</strong>, M. Cohn, G. Zellou, B. Möbius: 
+<!-- 
+<a href="XXXXXXX" target="_blank" rel="noopener"><em>Cross-Cultural Comparison of Gradient Emotion Perception: Human vs. Alexa TTS Voices.</em></a>
+--> 
+<em>Cross-Cultural Comparison of Gradient Emotion Perception: Human vs. Alexa TTS Voices.</em>
+In: Interspeech, September 18-22, Incheon/South Korea.<br> [Conference, Full Paper, Accepted]</dd> 
+   
       <dd>S. Warchhold, D. Duran, <strong>I. Gessinger</strong>, E. Raveh (editors): <a href="https://freidok.uni-freiburg.de/data/223814" target="_blank" rel="noopener"><em>Proceedings of the Conference: Human Perspectives on Spoken Human-Machine Interaction.</em></a> November 15-17, 2021, Freiburg/Germany (online).<br> [Conference, Proceedings, <a href="https://doi.org/10.6094/UNIFR/223814" target="_blank" rel="noopener">DOI</a>]</dd>
    
    <dd><strong>I. Gessinger</strong>: <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]</dd>
