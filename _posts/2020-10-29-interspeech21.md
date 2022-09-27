@@ -19,4 +19,4 @@ This video gives a short overview of the paper:
 
 <iframe width="640" height="336" src="https://player.vimeo.com/video/474666595" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<a href="https://www.isca-speech.org/archive/Interspeech_2020/" target="_blank" rel="noopener">Proceedings of Interspeech 2020</a>
+<a href="https://www.isca-speech.org/archive/interspeech_2020/index.html" target="_blank" rel="noopener">Proceedings of Interspeech 2020</a>
