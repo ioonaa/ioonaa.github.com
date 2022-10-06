@@ -4,6 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
+#### Autumn Trimester 2022/23 @ UCD Dublin
+ <ul>
+   <li>User-Centered Design, co-taught with Justin Edwards</li>
+ </ul>
+
 #### Winter Semester 2019/20 @ UdS Saarbrücken
  <ul>
    <li>Ü: Speech Science</li>
