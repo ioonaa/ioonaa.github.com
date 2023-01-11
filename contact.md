@@ -27,7 +27,7 @@ permalink: /contact/
 -->
       <tr>
       <td>Website:</td>
-      <td>https://people.ucd.ie/iona.gessinger</td>
+      <td><a href="https://people.ucd.ie/iona.gessinger" target="_blank" rel="noopener">https://people.ucd.ie/iona.gessinger</a></strong></td>
       </tr>
       <tr>
       <td>E-mail:</td>
