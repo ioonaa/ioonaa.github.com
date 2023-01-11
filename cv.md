@@ -71,7 +71,7 @@ permalink: /cv/
 	<dt>since 2021</dt>	
 	<dd><strong>Co-organizer</strong><br>
 	<em>Young Female Researchers in Speech Workshop</em><br>
-	[<a href="https://sites.google.com/view/yfrsw-2021" target="_blank" rel="noopener">Workshop website</a>]</dd>
+	[<a href="https://sites.google.com/view/yfrsw-2023" target="_blank" rel="noopener">Workshop website</a>]</dd>
 </dl>
 
 
