@@ -113,7 +113,7 @@ permalink: /cv/
 </dl>
 
 <dl>
-	<dt>since 2013</dt>	
+	<dt>2013-2022</dt>	
 	<dd><strong>Newsreader</strong><br>
 	<em>atz Hörmedien für Sehbehinderte und Blinde e.V.</em></dd>
 	<dd>MIKS - an audio journal for visually impaired and blind people that makes local news accessible.<br>
