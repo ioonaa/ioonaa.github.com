@@ -10,7 +10,7 @@ I taught topics such as phonetics, speech science, and user-centered design at u
 
 In the course of my education as a phonetician, I was engaged in various fields of application. Having a background in Romance studies (French and Portuguese), I started with the phonetics of <strong>foreign language learning</strong>, continued in the area of <strong>forensic phonetics</strong>, and then moved towards <strong>human-computer interaction</strong> (HCI).
 
-![Foto]({{ site.url }}/images/iona_4.jpg "Iona Gessinger"){:height="260px" .center-image}
+![Foto]({{ site.url }}/images/iona_5.jpg "Iona Gessinger"){:height="260px" .center-image}
 
 Spoken HCI is now the main focus of my work as a postdoctoral researcher. As voice-activated digital assistants become a part of our daily lives, I believe it is imperative to further investigate the behavior of their human interlocutors in order to incorporate these findings into the development of the systems. Such user-centered design ensures that product development meets user expectations.
 
