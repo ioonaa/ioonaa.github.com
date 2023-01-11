@@ -8,7 +8,7 @@ permalink: /contact/
   <tbody>
     <tr>
       <td>Address:</td>
-      <td>Iona Gessinger <br>
+      <td>Dr Iona Gessinger <br>
         University College Dublin <br> 
         School of Information and Communication Studies <br> 
         Newman Building <br>
