@@ -21,5 +21,5 @@ Spoken HCI is now the main focus of my work as a postdoctoral researcher. As voi
 
 Before coming to Dublin, I was part of the <a href="http://www.coli.uni-saarland.de/groups/WB/Phonetics/" target="_blank" rel="noopener">Phonetics and Phonology</a> research group headed by <a href="http://www.coli.uni-saarland.de/~moebius/" target="_blank" rel="noopener">Prof. Bernd Möbius</a>. The group belongs to the <a href="https://www.uni-saarland.de/en/department/lst.html" target="_blank" rel="noopener">Language Science and Technology</a> department at <a href="https://www.uni-saarland.de/en/home.html" target="_blank" rel="noopener">Saarland University</a>, Saarbrücken. During this time, I wrote my doctoral thesis on phonetic accommodation of human interlocutors in the context of human-computer interaction, which I worked on as part of the <a href="https://ioonaa.github.io/chicproject/">CHIC project</a>.
 
-![Foto]({{ site.url }}/images/ig_2.jpg "Spectrogram"){:height="150px" .center-image}
+![Foto]({{ site.url }}/images/ig_2.jpg "Spectrogram"){:height="200px" .center-image}
 <p><center>[ʔaˈjoːna ˈgɛsɪŋɐ]</center></p>
