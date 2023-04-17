@@ -83,9 +83,9 @@ permalink: /cv/
 </dl>
 
 <dl>
-	<dt>since 2016</dt>	
+	<dt>2016-2022</dt>	
 	<dd><strong>ISCA Student Advisory Committee</strong><br>
-		since 2021 <em>Advisor</em><br>
+		2021-2022 <em>Advisor</em><br>
 		2020 <em>General Coordinator</em><br>
 		since 2018 <em>Board Member</em><br>
 		2016-2017 <em>Volunteer</em></dd>
