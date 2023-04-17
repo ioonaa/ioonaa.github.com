@@ -106,7 +106,7 @@ permalink: /cv/
 	<dd><strong>Local Organizer</strong><br>
 	<em>Young Researchers' Roundtable on Spoken Dialogue Systems</em></dd>
 	<dd>I was a local organizer for the 2017 YRRSDS in Saarbrücken, Germany.<br>
-	[<a href="https://www.sites.google.com/site/2017yrrsds" target="_blank" rel="noopener">YRRSDS 2017 website</a>]</dd> 
+</dd> 
 </dl>
 
 <dl>
