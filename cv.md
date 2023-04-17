@@ -59,14 +59,6 @@ permalink: /cv/
 
 ## Other
 
-
-<dl>
-	<dt>2021</dt>	
-	<dd><strong>Co-organizer</strong><br>
-	<em>Conference: Human Perspectives on Spoken Human-Machine Interaction</em><br>
-	[<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Conference website</a>]</dd>
-</dl>
-
 <dl>
 	<dt>since 2021</dt>	
 	<dd><strong>Co-organizer</strong><br>
@@ -74,6 +66,12 @@ permalink: /cv/
 	[<a href="https://sites.google.com/view/yfrsw-2023" target="_blank" rel="noopener">Workshop website</a>]</dd>
 </dl>
 
+<dl>
+	<dt>2021</dt>	
+	<dd><strong>Co-organizer</strong><br>
+	<em>Conference: Human Perspectives on Spoken Human-Machine Interaction</em><br>
+	[<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Conference website</a>]</dd>
+</dl>
 
 <dl>
 	<dt>since 2020</dt>	
