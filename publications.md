@@ -12,6 +12,10 @@ Full Paper / Position Paper / Abstract / Proceedings,<br>
 Talk / Poster / Accepted]</strong>
 
 <dl>
+   
+   <dt>2023</dt>	
+   <dd>P. R. Peña, P. Doyle, J. Edwards, D. Garaialde, D. Rough, A. Bleakley, L. Clark, A. Tobar Henriquez, H. Branigan, <strong>I. Gessinger</strong>, Benjamin R. Cowan: <a href="https://www.sciencedirect.com/science/article/pii/S1071581923000678" target="_blank" rel="noopener"><em>Audience Design and Egocentrism in Reference Production during Human-Computer Dialogue.</em></a> In: International Journal of Human-Computer Studies 176, 103058.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2023.103058" target="_blank" rel="noopener">DOI</a>]</dd>
+   
    <dt>2022</dt>	 
    <dd><strong>I. Gessinger</strong>, M. Cohn, G. Zellou, B. Möbius: 
 <a href="https://www.isca-speech.org/archive/interspeech_2022/gessinger22_interspeech.html" target="_blank" rel="noopener"><em>Cross-Cultural Comparison of Gradient Emotion Perception: Human vs. Alexa TTS Voices.</em></a>
