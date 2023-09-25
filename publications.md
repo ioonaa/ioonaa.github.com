@@ -14,11 +14,11 @@ Talk / Poster / Accepted]</strong>
 <dl>
    
    <dt>2023</dt>	
-   <dd><strong>I. Gessinger</strong>, Michelle Cohn, Benjamin R. Cowan, Georgia Zellou, Bernd Möbius: <a href="https://www.isca-speech.org/archive/interspeech_2023/gessinger23_interspeech.html" target="_blank" rel="noopener"><em>Cross-linguistic Emotion Perception in Human and TTS Voices.</em></a> In: Interspeech, August 20-24, Dublin/Ireland.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2023-711" target="_blank" rel="noopener">DOI</a>]</dd>
+   <dd><strong>I. Gessinger</strong>, M. Cohn, B. R. Cowan, G. Zellou, B. Möbius: <a href="https://www.isca-speech.org/archive/interspeech_2023/gessinger23_interspeech.html" target="_blank" rel="noopener"><em>Cross-linguistic Emotion Perception in Human and TTS Voices.</em></a> In: Interspeech, August 20-24, Dublin/Ireland.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2023-711" target="_blank" rel="noopener">DOI</a>]</dd>
 
-   <dd>Sam Davern, Orla Cooney, <strong>I. Gessinger</strong>, Benjamin R. Cowan: <a href="https://dl.acm.org/doi/10.1145/3571884.3604306" target="_blank" rel="noopener"><em>Investigating the Usability of a Speech Agent-based Role-playing Game.</em></a> In: Conversational User Interfaces, July 19-21, Eindhoven/The Netherlands.<br> [Conference, Full Paper, Poster, <a href="https://doi.org/10.1145/3571884.3604306" target="_blank" rel="noopener">DOI</a>]</dd>
+   <dd>S. Davern, O. Cooney, <strong>I. Gessinger</strong>, B. R. Cowan: <a href="https://dl.acm.org/doi/10.1145/3571884.3604306" target="_blank" rel="noopener"><em>Investigating the Usability of a Speech Agent-based Role-playing Game.</em></a> In: Conversational User Interfaces, July 19-21, Eindhoven/The Netherlands.<br> [Conference, Full Paper, Poster, <a href="https://doi.org/10.1145/3571884.3604306" target="_blank" rel="noopener">DOI</a>]</dd>
 
-   <dd><strong>I. Gessinger</strong> and Benjamin R. Cowan: <em>Prosody in Referential Communication with a Human or a Computer Partner.</em> In: UK Speech, June 14-15, Sheffield/UK.<br> [Conference, Abstract, Poster]</dd>
+   <dd><strong>I. Gessinger</strong> and B. R. Cowan: <em>Prosody in Referential Communication with a Human or a Computer Partner.</em> In: UK Speech, June 14-15, Sheffield/UK.<br> [Conference, Abstract, Poster]</dd>
    
    <dd>P. R. Peña, P. Doyle, J. Edwards, D. Garaialde, D. Rough, A. Bleakley, L. Clark, A. Tobar Henriquez, H. Branigan, <strong>I. Gessinger</strong>, Benjamin R. Cowan: <a href="https://www.sciencedirect.com/science/article/pii/S1071581923000678" target="_blank" rel="noopener"><em>Audience Design and Egocentrism in Reference Production during Human-Computer Dialogue.</em></a> In: International Journal of Human-Computer Studies 176, 103058.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2023.103058" target="_blank" rel="noopener">DOI</a>]</dd>
    
