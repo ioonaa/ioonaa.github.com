@@ -84,7 +84,7 @@ permalink: /cv/
 </dl>
 
 <dl>
-	<dt>since 2020</dt>	
+	<dt>2020-2022</dt>	
 	<dd><strong>ISCA Distinguished Lecturer Selection Committee</strong><br>
 	<em>Representative of SAC</em><br>
 	[<a href="https://www.isca-speech.org/iscaweb/index.php/distinguished-lecturers" target="_blank" rel="noopener">ISCA website: Distinguished Lecturers</a>]</dd>
