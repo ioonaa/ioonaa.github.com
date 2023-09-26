@@ -14,6 +14,6 @@ Emotion Perception in Human and TTS Voices</a></strong> in collaboration with <s
 I also co-chaired a session on <strong>Health-Related Speech Analysis</strong> with <strong>Corinne Fredouille</strong> 
 (University of Avignon, France). An absolute pleasure to learn more about this area!
 
-![Foto]({{ site.url }}/images/interspeech_2023_2.jpg "Simon King giving a shout-out to outstanding reviewers"){:height="400" .center-image}
+![Foto]({{ site.url }}/images/interspeech_2023_2.jpg "Simon King giving a shout-out to outstanding reviewers"){:height="250" .center-image}
 
 Very happy as well to have been recognized as an <strong>Outstanding Reviewer</strong> by the TPC chairs of the conference! &#128525;
