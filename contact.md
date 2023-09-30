@@ -10,10 +10,10 @@ permalink: /contact/
       <td>Address:</td>
       <td>Dr Iona Gessinger <br>
         University College Dublin <br> 
-        School of Information and Communication Studies <br> 
-        Newman Building <br>
+        School of Computer Science <br>
         Belfield, Dublin 4 <br>
-        Ireland </td>
+        Ireland <br>
+        D04 V1W8 </td>
     </tr>
 <!--
     <tr>
