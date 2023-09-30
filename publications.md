@@ -7,7 +7,7 @@ permalink: /publications/
 <dl>
    <dt>Dissertation</dt>
 
-   <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]</dd>
+   <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a> &#128275;]</dd>
 
    <p></p>
    
@@ -15,9 +15,9 @@ permalink: /publications/
 
    <dd>P. R. Peña, P. Doyle, J. Edwards, D. Garaialde, D. Rough, A. Bleakley, L. Clark, A. Tobar Henriquez, H. Branigan, <strong>I. Gessinger</strong>, Benjamin R. Cowan (2023): <a href="https://www.sciencedirect.com/science/article/pii/S1071581923000678" target="_blank" rel="noopener"><em>Audience Design and Egocentrism in Reference Production during Human-Computer Dialogue.</em></a> In: International Journal of Human-Computer Studies 176, 103058.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2023.103058" target="_blank" rel="noopener">DOI</a>]</dd>
 
-   <dd><strong>I. Gessinger</strong>, B. Möbius, S. Le Maguer, E. Raveh, I. Steiner (2021): <a href="https://www.sciencedirect.com/science/article/pii/S0095447021000012" target="_blank" rel="noopener"><em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor: a Wizard-of-Oz Study.</em></a> In: Journal of Phonetics 86, 101029.<br> [Journal, <a href="https://doi.org/10.1016/j.wocn.2021.101029" target="_blank" rel="noopener">DOI</a>]</dd>
+   <dd><strong>I. Gessinger</strong>, B. Möbius, S. Le Maguer, E. Raveh, I. Steiner (2021): <a href="https://www.sciencedirect.com/science/article/pii/S0095447021000012" target="_blank" rel="noopener"><em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor: a Wizard-of-Oz Study.</em></a> In: Journal of Phonetics 86, 101029.<br> [Journal, <a href="https://doi.org/10.1016/j.wocn.2021.101029" target="_blank" rel="noopener">DOI</a> &#128275;]</dd>
 
-   <dd><strong>I. Gessinger</strong>, E. Raveh, I. Steiner, B. Möbius (2021): <a href="https://www.sciencedirect.com/science/article/pii/S0167639320303095" target="_blank" rel="noopener"><em>Phonetic Accommodation to Natural and Synthetic Voices: Behavior of Groups and Individuals in Speech Shadowing.</em></a> In: Speech Communication 127, 43-63.<br> [Journal, <a href="https://doi.org/10.1016/j.specom.2020.12.004" target="_blank" rel="noopener">DOI</a>]</dd>
+   <dd><strong>I. Gessinger</strong>, E. Raveh, I. Steiner, B. Möbius (2021): <a href="https://www.sciencedirect.com/science/article/pii/S0167639320303095" target="_blank" rel="noopener"><em>Phonetic Accommodation to Natural and Synthetic Voices: Behavior of Groups and Individuals in Speech Shadowing.</em></a> In: Speech Communication 127, 43-63.<br> [Journal, <a href="https://doi.org/10.1016/j.specom.2020.12.004" target="_blank" rel="noopener">DOI</a> &#128275;]</dd>
 
    <p></p>
 
