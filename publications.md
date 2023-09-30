@@ -7,8 +7,9 @@ permalink: /publications/
 <dl>
    <dt>Dissertation</dt>
 
-   <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]<p></p></dd>
+   <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]</dd>
 
+   <p></p>
    
    <dt>Journal articles</dt>
 
@@ -18,6 +19,7 @@ permalink: /publications/
 
    <dd><strong>I. Gessinger</strong>, E. Raveh, I. Steiner, B. Möbius (2021): <a href="https://www.sciencedirect.com/science/article/pii/S0167639320303095" target="_blank" rel="noopener"><em>Phonetic Accommodation to Natural and Synthetic Voices: Behavior of Groups and Individuals in Speech Shadowing.</em></a> In: Speech Communication 127, 43-63.<br> [Journal, <a href="https://doi.org/10.1016/j.specom.2020.12.004" target="_blank" rel="noopener">DOI</a>]</dd>
 
+   <p></p>
 
    <dt>Conference articles</dt>
    
@@ -51,22 +53,25 @@ permalink: /publications/
 
    <dd>E. Raveh, <strong>I. Gessinger</strong>, S. Le Maguer, B. Möbius, I. Steiner (2017): <em>Investigating Phonetic Convergence in a Shadowing Experiment with Synthetic Stimuli.</em> In: 28th Conference on Electronic Speech Signal Processing (ESSV), March 15-17, Saarbrücken/Germany, 254-261.<br> [Conference, Full Paper, Poster]</dd>
 
+   <p></p>
    
    <dt>Edited volumes</dt>
 
    <dd>S. Warchhold, D. Duran, <strong>I. Gessinger</strong>, E. Raveh (editors) (2022): <a href="https://freidok.uni-freiburg.de/data/223814" target="_blank" rel="noopener"><em>Proceedings of the Conference: Human Perspectives on Spoken Human-Machine Interaction.</em></a> November 15-17, 2021, Freiburg/Germany (online).<br> [Conference, Proceedings, <a href="https://doi.org/10.6094/UNIFR/223814" target="_blank" rel="noopener">DOI</a>]</dd>
 
-
+   <p></p>
+   
    <dt>Invited talks</dt>
 
-   <dd><strong>I. Gessinger</strong>(2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, Dublin/Ireland.<br> [Colloquium, Abstract, Talk]</dd>
+   <dd><strong>I. Gessinger</strong>(2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
    
-   <dd><strong>I. Gessinger</strong>(2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: Research Colloquium of the Human Language Technologies group at INESC-ID, July 6, Lisbon/Portugal.<br> [Colloquium, Abstract, Talk]</dd>
+   <dd><strong>I. Gessinger</strong>(2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: Research Colloquium of the Human Language Technologies group at INESC-ID, July 6, Lisbon/Portugal.<br> [Colloquium, Talk]</dd>
 
-   <dd><strong>I. Gessinger</strong>, M. Cohn, G. Zellou, B. Möbius (2022): <em>Cross-Cultural Comparison of Gradient Emotion Perception: Human vs. Alexa TTS Voices.</em> In: Research Colloquium of the Multilinguality and Language Technology (MLT) group at the German Research Centre for Artificial Intelligence (DFKI), August 16, Saarbrücken/Germany.<br> [Colloquium, Abstract, Talk]</dd>
+   <dd><strong>I. Gessinger</strong>, M. Cohn, G. Zellou, B. Möbius (2022): <em>Cross-Cultural Comparison of Gradient Emotion Perception: Human vs. Alexa TTS Voices.</em> In: Research Colloquium of the Multilinguality and Language Technology (MLT) group at the German Research Centre for Artificial Intelligence (DFKI), August 16, Saarbrücken/Germany.<br> [Colloquium, Talk]</dd>
 
-   <dd><strong>I. Gessinger</strong> (2019): <em>Zur phonetischen Anpassung an virtuelle Gesprächspartner.</em> In: Linguistisches Kolloquium des Forschungszentrums Deutscher Sprachatlas und des Instituts für Germanistische Sprachwissenschaft der Philipps-Universität Marburg, November 6, Marburg/Germany.<br> [Colloquium, Abstract, Talk]</dd>
+   <dd><strong>I. Gessinger</strong> (2019): <em>Zur phonetischen Anpassung an virtuelle Gesprächspartner.</em> In: Linguistisches Kolloquium des Forschungszentrums Deutscher Sprachatlas und des Instituts für Germanistische Sprachwissenschaft der Philipps-Universität Marburg, November 6, Marburg/Germany.<br> [Colloquium, Talk]</dd>
 
+   <p></p>
    
    <dt>Conference talks</dt>
 
@@ -82,6 +87,8 @@ permalink: /publications/
 
    <dd><strong>I. Gessinger</strong> (2015): <em>Feedback in Pronunciation Training – Experience from Classroom Interaction.</em> In: Workshop on Feedback in Pronunciation Training, November 4-6, Tholey/Germany.<br> [Workshop, Abstract, Poster]</dd>
     <dd><strong>I. Gessinger</strong>: <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
+
+   <p></p>
 
     <dt>Conference posters</dt>
 
