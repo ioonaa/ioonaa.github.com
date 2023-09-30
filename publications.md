@@ -32,7 +32,7 @@ permalink: /publications/
    <dd>B. Andreeva, G. Demenko, J. Bachan, <strong>I. Gessinger</strong>, K. Jankowska, B. Möbius (2021): <em>Phonetic convergence evaluation based on fundamental frequency variability.</em> In: 32th Conference on Electronic Speech Signal Processing (ESSV), March 3-5, Berlin/Germany, 153-160.<br> [Conference, Full Paper, Talk]</dd>
 
    <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner (2020): <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2020/gessinger20_interspeech.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em></a> In: Interspeech, October 25-29, Shanghai/China, 4118-4122.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2020-2701" target="_blank" rel="noopener">DOI</a>] <br>
-   <p style="color:#699eb5">&#8594; ISCA Award for Best Student Paper at Interspeech 2020 &#127942;</p></dd>
+   <span style="color:#699eb5">&#8594; ISCA Award for Best Student Paper at Interspeech 2020 &#127942;</span></dd>
 
    <dd>M. Cohn, E. Raveh, K. Predeck, <strong>I. Gessinger</strong>, B. Möbius, G. Zellou (2020): <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2020/cohn20c_interspeech.pdf" target="_blank" rel="noopener"><em>Differences in Gradient Emotion Perception: Human vs. Alexa Voices.</em></a> In: Interspeech, October 25-29, Shanghai/China, 1818-1822.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2020-1938" target="_blank" rel="noopener">DOI</a>]</dd> 
 
@@ -43,7 +43,7 @@ permalink: /publications/
   <dd><strong>I. Gessinger</strong>, B. Möbius, N. Fakhar, E. Raveh, I. Steiner (2019): <a href="https://assta.org/proceedings/ICPhS2019/papers/ICPhS_1524.pdf" target="_blank" rel="noopener"><em>A Wizard-of-Oz Experiment to Study Phonetic Accommodation in Human-Computer Interaction.</em></a> In: International Congress of Phonetic Sciences (ICPhS), August 5-9, Melbourne/Australia, 1475-1479.<br> [Conference, Full Paper, Talk]</dd>
 
    <dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius (2019): <a href="http://www.essv.de/paper.php?id=60" target="_blank" rel="noopener"><em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em></a> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany, 42-49.<br> [Conference, Full Paper, Talk]
-<p style="color:#699eb5">&#8594; Best Student Paper at ESSV 2019 &#127942;</p></dd>
+<span style="color:#699eb5">&#8594; Best Student Paper at ESSV 2019 &#127942;</span></dd>
 
    <dd>E. Raveh, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius (2018): <a href="https://arxiv.org/pdf/1809.04945.pdf" target="_blank" rel="noopener"><em>Studying Mutual Phonetic Influence with a Web-Based Spoken Dialogue System.</em></a> In: 20th International Conference on Speech and Computer (SPECOM), September 18-22, Leipzig/Germany. Springer, Cham, 552-562.<br> [Conference, Full Paper, Talk]</dd>
 
