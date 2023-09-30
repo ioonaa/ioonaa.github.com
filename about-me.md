@@ -4,8 +4,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
-I am a <a href="https://people.ucd.ie/iona.gessinger/" target="_blank" rel="noopener">postdoctoral researcher</a> under the supervision of <a href="https://people.ucd.ie/julie.berndsen" target="_blank" rel="noopener">Prof. Julie Berndsen</a> in the <a href="https://www.ucd.ie/cs/" target="_blank" rel="noopener">School of Computer Science</a> at <a href="https://www.ucd.ie/" target="_blank" rel="noopener">University College Dublin</a>. I am also affiliated with the <a href="https://www.adaptcentre.ie/" target="_blank" rel="noopener">ADAPT Centre for AI-Driven Digital Content Technology</a>.
-
+I am a <a href="https://people.ucd.ie/iona.gessinger/" target="_blank" rel="noopener">postdoctoral researcher</a> under the supervision of <a href="https://people.ucd.ie/julie.berndsen" target="_blank" rel="noopener">Prof. Julie Berndsen</a> in the <a href="https://www.ucd.ie/cs/" target="_blank" rel="noopener">School of Computer Science</a> at <a href="https://www.ucd.ie/" target="_blank" rel="noopener">University College Dublin (UCD)</a>. I am also affiliated with the <a href="https://www.adaptcentre.ie/" target="_blank" rel="noopener">ADAPT Centre for AI-Driven Digital Content Technology</a>.
 Prior to my current position, I worked with <a href="https://people.ucd.ie/benjamin.cowan" target="_blank" rel="noopener">Assoc. Prof. Benjamin Cowan</a> in the <a href="https://www.hci.ucd.ie/" target="_blank" rel="noopener">HCI@UCD group</a> at the <a href="https://www.ucd.ie/ics/" target="_blank" rel="noopener">UCD School of Information and Communication Studies</a>.
 
 ![Foto]({{ site.url }}/images/iona_5.jpg "Iona Gessinger"){:height="260px" .center-image}
