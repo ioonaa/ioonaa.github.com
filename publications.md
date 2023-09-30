@@ -51,7 +51,7 @@ permalink: /publications/
 
    <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner (2017): <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2017/gessinger17_interspeech.pdf" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Interspeech, August 20-24, Stockholm/Sweden, 3797-3801.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2017-1433" target="_blank" rel="noopener">DOI</a>]</dd>
 
-   <dd>E. Raveh, <strong>I. Gessinger</strong>, S. Le Maguer, B. Möbius, I. Steiner (2017): <em>Investigating Phonetic Convergence in a Shadowing Experiment with Synthetic Stimuli.</em> In: 28th Conference on Electronic Speech Signal Processing (ESSV), March 15-17, Saarbrücken/Germany, 254-261.<br> [Conference, Full Paper, Poster]</dd>
+   <dd>E. Raveh, <strong>I. Gessinger</strong>, S. Le Maguer, B. Möbius, I. Steiner (2017): <a href="https://www.essv.de/pdf/2017_254_261.pdf" target="_blank" rel="noopener"><em>Investigating Phonetic Convergence in a Shadowing Experiment with Synthetic Stimuli.</em></a> In: 28th Conference on Electronic Speech Signal Processing (ESSV), March 15-17, Saarbrücken/Germany, 254-261.<br> [Conference, Full Paper, Poster]</dd>
 
    <p></p>
    
