@@ -63,9 +63,9 @@ permalink: /publications/
    
    <dt>Invited talks</dt>
 
-   <dd><strong>I. Gessinger</strong>(2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
+   <dd><strong>I. Gessinger</strong> (2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
    
-   <dd><strong>I. Gessinger</strong>(2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: Research Colloquium of the Human Language Technologies group at INESC-ID, July 6, Lisbon/Portugal.<br> [Colloquium, Talk]</dd>
+   <dd><strong>I. Gessinger</strong> (2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: Research Colloquium of the Human Language Technologies group at INESC-ID, July 6, Lisbon/Portugal.<br> [Colloquium, Talk]</dd>
 
    <dd><strong>I. Gessinger</strong>, M. Cohn, G. Zellou, B. Möbius (2022): <em>Cross-Cultural Comparison of Gradient Emotion Perception: Human vs. Alexa TTS Voices.</em> In: Research Colloquium of the Multilinguality and Language Technology (MLT) group at the German Research Centre for Artificial Intelligence (DFKI), August 16, Saarbrücken/Germany.<br> [Colloquium, Talk]</dd>
 
