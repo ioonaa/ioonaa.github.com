@@ -7,7 +7,7 @@ permalink: /publications/
 <dl>
    <dt>Dissertation</dt>
 
-   <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]</dd>
+   <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]<p></p></dd>
 
    
    <dt>Journal articles</dt>
