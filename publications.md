@@ -85,8 +85,7 @@ permalink: /publications/
 
 <dd><strong>I. Gessinger</strong>, B. Möbius, I. Steiner (2017): <em>Capturing Phonetic Convergence by Global Analysis of Spectral Distance.</em> In: Phonetik und Phonologie 13, September 28-29, Berlin/Germany.<br> [Conference, Abstract, Talk]</dd>
 
-   <dd><strong>I. Gessinger</strong> (2015): <em>Feedback in Pronunciation Training – Experience from Classroom Interaction.</em> In: Workshop on Feedback in Pronunciation Training, November 4-6, Tholey/Germany.<br> [Workshop, Abstract, Poster]</dd>
-    <dd><strong>I. Gessinger</strong>: <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
+    <dd><strong>I. Gessinger</strong> (2015): <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
 
    <p></p>
 
@@ -108,7 +107,9 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 14, Sept
   <dd><strong>I. Gessinger</strong>, E. Raveh, J. O’Mahony, I. Steiner, B. Möbius (2016): <em>A Shadowing Experiment with Natural and Synthetic Stimuli.</em> In: Phonetik und Phonologie 12, October 13-14, Munich/Germany, 58-61.<br> [Conference, Full Paper, Poster]</dd>
 
    <dd>E. Raveh and <strong>I. Gessinger</strong> (2016): <em>Position Paper.</em> In: 12th Young Researchers' Roundtable on Spoken Dialogue Systems, September 16-18, Los Angeles/USA.<br> [Workshop, Position Paper, Poster]</dd>
-   
+
+   <dd><strong>I. Gessinger</strong> (2015): <em>Feedback in Pronunciation Training – Experience from Classroom Interaction.</em> In: Workshop on Feedback in Pronunciation Training, November 4-6, Tholey/Germany.<br> [Workshop, Abstract, Poster]</dd>
+
    <dd><strong>I. Gessinger</strong> and L. Löff Machado (2014): <em>Dialetalidade como Dist&acirc;ncia Fon&eacute;tica: Media&ccedil;&atilde;o da Compet&ecirc;ncia em Alem&atilde;o Standard.</em> In: Encontro Comemorativo do Projeto VARSUL – Varia&ccedil;&atilde;o Linguística na Regi&atilde;o Sul do Brasil, December 11-12, Pontif&iacute;cia Universidade Cat&oacute;lica do Rio Grande do Sul, Porto Alegre/Brazil.<br> [Colloquium, Abstract, Poster]</dd>
    
 </dl>
