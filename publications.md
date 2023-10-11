@@ -65,11 +65,11 @@ permalink: /publications/
 
 <!---    <dd><strong>I. Gessinger</strong> (2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, Dublin/Ireland.<br> [Colloquium, Talk]</dd> --->
 
-   <dd><strong>I. Gessinger</strong>, M. Cohn, G. Zellou, B. Möbius (2022): <em>Cross-Cultural Comparison of Gradient Emotion Perception: Human vs. Alexa TTS Voices.</em> In: Research Colloquium of the Multilinguality and Language Technology (MLT) group at the German Research Centre for Artificial Intelligence (DFKI), August 16, Saarbrücken/Germany.<br> [Colloquium, Talk]</dd>
+   <dd><em>Cross-Cultural Comparison of Gradient Emotion Perception</em> In: Research Colloquium of the Multilinguality and Language Technology (MLT) group at the German Research Centre for Artificial Intelligence (DFKI), August 16, 2022, Saarbrücken/Germany.<br> [Colloquium, Talk]</dd>
 
-   <dd><strong>I. Gessinger</strong> (2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: Research Colloquium of the Human Language Technologies group at INESC-ID, July 6, Lisbon/Portugal.<br> [Colloquium, Talk]</dd>
+   <dd><em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: Research Colloquium of the Human Language Technologies group at INESC-ID, July 6, 2022, Lisbon/Portugal.<br> [Colloquium, Talk]</dd>
 
-   <dd><strong>I. Gessinger</strong> (2019): <em>Zur phonetischen Anpassung an virtuelle Gesprächspartner.</em> In: Linguistisches Kolloquium des Forschungszentrums Deutscher Sprachatlas und des Instituts für Germanistische Sprachwissenschaft der Philipps-Universität Marburg, November 6, Marburg/Germany.<br> [Colloquium, Talk]</dd>
+   <dd><em>Zur phonetischen Anpassung an virtuelle Gesprächspartner.</em> In: Linguistisches Kolloquium des Forschungszentrums Deutscher Sprachatlas und des Instituts für Germanistische Sprachwissenschaft der Philipps-Universität Marburg, November 6, 2019, Marburg/Germany.<br> [Colloquium, Talk]</dd>
 
    <p></p>
    
