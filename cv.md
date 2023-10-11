@@ -4,6 +4,28 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
+## Education
+
+<dl>
+	<dt>2022</dt>	
+	<dd><strong>Doctor of Philosophy</strong>: Phonetics, <em>Saarland University, Saarbrücken, Germany</em><br>
+	Thesis topic: phonetic accommodation of humans communicating with a spoken dialog system</dd>
+</dl>
+
+<dl>
+	<dt>2014</dt>	
+	<dd><strong>Master of Arts</strong>: Speech Science – Phonetics, <em>University of Marburg, Germany</em><br>
+	Thesis topic: foreign accent imitation and intelligibility in a forensic context</dd>
+</dl>
+
+<dl>
+	<dt>2012</dt>	
+	<dd><strong>Bachelor of Arts</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em><br>
+	Thesis topic: authenticity of French pronunciation in native speakers of German</dd>
+	
+</dl>
+
+
 ## Work
 
 <dl>
@@ -44,27 +66,6 @@ permalink: /cv/
 	<dt>2010-2011</dt>	
 	<dd><strong>Foreign Language Assistant</strong>, <em>Lycée Ronsard, Vendôme, France</em></dd>
 	<dd>Scholarship program of the PAD (Pädagogischer Austauschdienst) on behalf of the Ministers of Education and Culture of the Federal States, Germany.</dd>
-</dl>
-
-## Education
-
-<dl>
-	<dt>2022</dt>	
-	<dd><strong>Doctor of Philosophy</strong>: Phonetics, <em>Saarland University, Saarbrücken, Germany</em><br>
-	Thesis topic: phonetic accommodation of humans communicating with a spoken dialog system</dd>
-</dl>
-
-<dl>
-	<dt>2014</dt>	
-	<dd><strong>Master of Arts</strong>: Speech Science – Phonetics, <em>University of Marburg, Germany</em><br>
-	Thesis topic: foreign accent imitation and intelligibility in a forensic context</dd>
-</dl>
-
-<dl>
-	<dt>2012</dt>	
-	<dd><strong>Bachelor of Arts</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em><br>
-	Thesis topic: authenticity of French pronunciation in native speakers of German</dd>
-	
 </dl>
 
 ## Other
