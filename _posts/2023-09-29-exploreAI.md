@@ -8,5 +8,5 @@ I was happy to support the <a href="https://www.adaptcentre.ie/explore-ai//" tar
 exhibition in the Douglas Hyde Gallery at Trinity College Dublin tonight. 
 In the context of the <strong>European Researchers' Night</strong>, ADAPT researchers showcased cutting edge research on artificial intelligence (AI). I represented the ADAPT Gender, Equality, Diversity and Inclusion (GEDI) committee helping to make sure that the event was accessible to all.
 
-![Foto]({{ site.url }}/images/adapt_exploreAI.jpg "Impressions of the ADAPT #ExploreAI exhibition"){:height="250" .center-image}
-<center>Impressions from the event. Photo credit: ADAPT</center>
+![Foto]({{ site.url }}/images/adapt_exploreAI.jpg "Impressions from the ADAPT ExploreAI exhibition"){:height="250" .center-image}
+<center>Impressions from the ADAPT ExploreAI exhibition (photo credit: ADAPT)</center>
