@@ -20,7 +20,7 @@ permalink: /publications/
    <dt>Dissertation</dt>
 
    <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]</dd>
-
+   
    <p></p>
    
    <dt>Journal articles</dt>
@@ -39,8 +39,7 @@ permalink: /publications/
       
    <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle. (2024): <em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em> In: ACM Conference on Conversational User Interfaces, July 8–10, Luxembourg City/Luxembourg.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2405.09002" target="_blank" rel="noopener">arXiv</a>]
    
-   <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3642183" target="_blank" rel="noopener"><em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em></a> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br>
-   <span style="color:#699eb5">&#8594; Best Paper Award at CHI 2024 &#127942;</span></dd>
+   <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3642183" target="_blank" rel="noopener"><em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em></a> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br> <span style="color:#699eb5">&#8594; Best Paper Award at CHI 2024 &#127942;</span></dd>
 
    <dd><strong>I. Gessinger</strong>, M. Cohn, B. R. Cowan, G. Zellou, B. Möbius (2023): <a href="https://www.isca-archive.org/interspeech_2023/gessinger23_interspeech.pdf" target="_blank" rel="noopener"><em>Cross-linguistic Emotion Perception in Human and TTS Voices.</em></a> In: Interspeech, August 20-24, Dublin/Ireland, 5222-5226.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2023-711" target="_blank" rel="noopener">DOI</a>]</dd>
 
@@ -50,8 +49,7 @@ permalink: /publications/
 
    <dd>B. Andreeva, G. Demenko, J. Bachan, <strong>I. Gessinger</strong>, K. Jankowska, B. Möbius (2021): <a href="https://www.essv.de/pdf/2021_153_160.pdf" target="_blank" rel="noopener"><em>Phonetic convergence evaluation based on fundamental frequency variability.</em></a> In: 32th Conference on Electronic Speech Signal Processing (ESSV), March 3-5, Berlin/Germany, 153-160.<br> [Conference, Full Paper, Talk]</dd>
 
-   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner (2020): <a href="https://www.isca-archive.org/interspeech_2020/gessinger20_interspeech.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em></a> In: Interspeech, October 25-29, Shanghai/China, 4118-4122.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2020-2701" target="_blank" rel="noopener">DOI</a>] <br>
-   <span style="color:#699eb5">&#8594; ISCA Award for Best Student Paper at Interspeech 2020 &#127942;</span></dd>
+   <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner (2020): <a href="https://www.isca-archive.org/interspeech_2020/gessinger20_interspeech.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of L2 German Speakers to the Virtual Language Learning Tutor Mirabella.</em></a> In: Interspeech, October 25-29, Shanghai/China, 4118-4122.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2020-2701" target="_blank" rel="noopener">DOI</a>] <br> <span style="color:#699eb5">&#8594; ISCA Award for Best Student Paper at Interspeech 2020 &#127942;</span></dd>
 
    <dd>M. Cohn, E. Raveh, K. Predeck, <strong>I. Gessinger</strong>, B. Möbius, G. Zellou (2020): <a href="https://www.isca-archive.org/interspeech_2020/cohn20c_interspeech.pdf" target="_blank" rel="noopener"><em>Differences in Gradient Emotion Perception: Human vs. Alexa Voices.</em></a> In: Interspeech, October 25-29, Shanghai/China, 1818-1822.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2020-1938" target="_blank" rel="noopener">DOI</a>]</dd> 
 
