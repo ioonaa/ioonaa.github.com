@@ -102,7 +102,7 @@ permalink: /publications/
 
    <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner (2019): <em>Wo hat sich der Hase versteckt? Accommodation in a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 15, September 26-27, Düsseldorf/Germany.<br> [Conference, Abstract, Poster]</dd>
     
-   <dd>E. Raveh, B. Möbius, <strong>I. Gessinger</strong>, I. Steiner (2019): <em>Analyzing phonetic accommodation in human-human and human-computer interactions.</em> In: Phonetik und Phonologie 15, September 26-27, Düsseldorf/Germany.<br> [Conference, Abstract, Poster]</dd>
+   <dd>E. Raveh, B. Möbius, <strong>I. Gessinger</strong>, I. Steiner (2019): <em>Analyzing Phonetic Accommodation in Human-Human and Human-Computer Interactions.</em> In: Phonetik und Phonologie 15, September 26-27, Düsseldorf/Germany.<br> [Conference, Abstract, Poster]</dd>
 
    <dd><strong>I. Gessinger</strong>, E. Raveh, B. Möbius, I. Steiner (2018): <em>Phonetic Accommodation in HCI:
 Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 14, September 6-7, Vienna/Austria.<br> [Conference, Abstract, Poster]</dd>
