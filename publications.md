@@ -7,7 +7,11 @@ permalink: /publications/
 <dl>
    <dt>Under Review</dt>
    
-   <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan: <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em><br> [Journal, <a href="https://doi.org/10.48550/arXiv.2308.07164 " target="_blank" rel="noopener">arxiv</a>]</dd>
+   <dd> <strong>I. Gessinger</strong>, K. Seaborn, M. Steeds, B. R. Cowan: <em>ChatGPT and Me: First-Time and Experienced Users' Perceptions of ChatGPT's Communicative Ability as a Dialogue Partner.</em> Submitted to International Journal of Human-Computer Studies.<br> [Journal, <a href="http://dx.doi.org/10.2139/ssrn.4829547" target="_blank" rel="noopener">SSRN</a>]</dd>
+    
+   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal]</dd>
+   
+   <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan: <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em> Submitted to ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arxiv</a>]</dd>
 
    <p></p>
    
@@ -29,10 +33,10 @@ permalink: /publications/
 
    <dt>Conference articles</dt>
 
-   <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle. (2024): <em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em> In: ACM Conference on Conversational User Interfaces, July 8–10, Luxembourg City/Luxembourg. ACM, New York, NY/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href=" 	
+   <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle. (2024): <em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em> In: ACM Conference on Conversational User Interfaces, July 8–10, Luxembourg City/Luxembourg.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href=" 	
 https://doi.org/10.48550/arXiv.2405.09002" target="_blank" rel="noopener">arXiv</a>]
    
-   <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3642183" target="_blank" rel="noopener"><em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em></a> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA. ACM, New York, NY/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br>
+   <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3642183" target="_blank" rel="noopener"><em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em></a> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br>
    <span style="color:#699eb5">&#8594; Best Paper Award at CHI 2024 &#127942;</span></dd>
 
    <dd><strong>I. Gessinger</strong>, M. Cohn, B. R. Cowan, G. Zellou, B. Möbius (2023): <a href="https://www.isca-archive.org/interspeech_2023/gessinger23_interspeech.pdf" target="_blank" rel="noopener"><em>Cross-linguistic Emotion Perception in Human and TTS Voices.</em></a> In: Interspeech, August 20-24, Dublin/Ireland, 5222-5226.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2023-711" target="_blank" rel="noopener">DOI</a>]</dd>
