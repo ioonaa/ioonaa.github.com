@@ -34,8 +34,6 @@ permalink: /publications/
    <p></p>
 
    <dt>Conference articles</dt>
-
-   <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <em>PhoneViz: Exploring Alignments at a Glance.</em> In: Interspeech, September 1–5, Kos Island/Greece<br> [Conference, Show and Tell]
    
    <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle. (2024): <em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em> In: ACM Conference on Conversational User Interfaces, July 8–10, Luxembourg City/Luxembourg.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2405.09002" target="_blank" rel="noopener">arXiv</a>]
    
@@ -73,6 +71,12 @@ permalink: /publications/
    <dd>E. Raveh, <strong>I. Gessinger</strong>, S. Le Maguer, B. Möbius, I. Steiner (2017): <a href="https://www.essv.de/pdf/2017_254_261.pdf" target="_blank" rel="noopener"><em>Investigating Phonetic Convergence in a Shadowing Experiment with Synthetic Stimuli.</em></a> In: 28th Conference on Electronic Speech Signal Processing (ESSV), March 15-17, Saarbrücken/Germany, 254-261.<br> [Conference, Full Paper, Poster]</dd>
 
    <p></p>
+
+   <dt>Show and Tell</dt>
+
+   <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <em>PhoneViz: Exploring Alignments at a Glance.</em> In: Interspeech, September 1–5, Kos Island/Greece<br> [Conference, Show and Tell]
+   
+   <p></p>
    
    <dt>Edited volumes</dt>
 
@@ -82,7 +86,7 @@ permalink: /publications/
    
    <dt>Invited talks</dt>
 
-   <dd><<em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, 2022, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
+   <dd><em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, 2022, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
 
    <dd><em>Cross-Cultural Comparison of Gradient Emotion Perception.</em> In: Research Colloquium of the Multilinguality and Language Technology (MLT) group at the German Research Centre for Artificial Intelligence (DFKI), August 16, 2022, Saarbrücken/Germany.<br> [Colloquium, Talk]</dd>
 
