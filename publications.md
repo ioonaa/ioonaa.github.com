@@ -18,7 +18,7 @@ permalink: /publications/
    <p></p>
    
    <dt>Journal articles</dt>
-
+   
    <dd>P. R. Peña, P. Doyle, J. Edwards, D. Garaialde, D. Rough, A. Bleakley, L. Clark, A. Tobar Henriquez, H. Branigan, <strong>I. Gessinger</strong>, B. R. Cowan (2023): <a href="https://www.sciencedirect.com/science/article/pii/S1071581923000678" target="_blank" rel="noopener"><em>Audience Design and Egocentrism in Reference Production during Human-Computer Dialogue.</em></a> In: International Journal of Human-Computer Studies 176, 103058.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2023.103058" target="_blank" rel="noopener">DOI</a>]</dd>
 
    <dd><strong>I. Gessinger</strong>, B. Möbius, S. Le Maguer, E. Raveh, I. Steiner (2021): <a href="https://www.sciencedirect.com/science/article/pii/S0095447021000012" target="_blank" rel="noopener"><em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor: a Wizard-of-Oz Study.</em></a> In: Journal of Phonetics 86, 101029.<br> [Journal, <a href="https://doi.org/10.1016/j.wocn.2021.101029" target="_blank" rel="noopener">DOI</a>]</dd>
@@ -28,6 +28,8 @@ permalink: /publications/
    <p></p>
 
    <dt>Conference articles</dt>
+
+   <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle. (2024): <em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em> In: ACM Conversational User Interfaces, July 8–10, Luxembourg/Luxembourg. ACM, New York, NY/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://arxiv.org/abs/2405.09002" target="_blank" rel="noopener">arXiv</a>]
    
    <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3642183" target="_blank" rel="noopener"><em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em></a> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA. ACM, New York, NY/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br>
    <span style="color:#699eb5">&#8594; Best Paper Award at CHI 2024 &#127942;</span></dd>
