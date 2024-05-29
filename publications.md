@@ -78,6 +78,8 @@ permalink: /publications/
    
    <dt>Conference talks</dt>
 
+   <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: Biennial International Conference on the Linguistics of Contemporary English, September 26-28, Alicante/Spain.<br> [Conference, Abstract, Talk]</dd>
+
       <dd><strong>I. Gessinger</strong> (2020): <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor.</em> In: PhD Day SFB 1102, February 10, Saarbrücken/Germany.<br> [Colloquium, Abstract, Talk]</dd>
 
    <dd><strong>I. Gessinger</strong>, B. Möbius, E. Raveh, I. Steiner (2019): <em>Human-Computer Interaction: Convergence in Allophonic Contrasts.</em> In: 41. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), March 6-8, Bremen/Germany.<br> [Conference, Abstract, Talk]</dd>
@@ -94,6 +96,8 @@ permalink: /publications/
 
     <dt>Conference posters</dt>
 
+   <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: UK and Ireland Speech, July 1-2, Cambridge/UK.<br> [Conference, Abstract, Poster]</dd>
+   
    <dd><strong>I. Gessinger</strong> and B. R. Cowan (2023): <em>Prosody in Referential Communication with a Human or a Computer Partner.</em> In: UK Speech, June 14-15, Sheffield/UK.<br> [Conference, Abstract, Poster]</dd>
 
    <dd><strong>I. Gessinger</strong>, B. Möbius, B. Andreeva, E. Raveh, I. Steiner (2019): <em>Wo hat sich der Hase versteckt? Accommodation in a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 15, September 26-27, Düsseldorf/Germany.<br> [Conference, Abstract, Poster]</dd>
