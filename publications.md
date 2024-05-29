@@ -5,6 +5,12 @@ permalink: /publications/
 ---
 
 <dl>
+   <dt>Under Review</dt>
+
+   <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]</dd>
+
+   <p></p>
+   
    <dt>Dissertation</dt>
 
    <dd><strong>I. Gessinger</strong> (2022): <a href="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32213/1/Dissertation_GESSINGER_2022.pdf" target="_blank" rel="noopener"><em>Phonetic Accommodation of Human Interlocutors in the Context of Human-Computer Interaction.</em></a> Ph.D. thesis, Saarland University, Saarbrücken.<br> [Dissertation, <a href="https://doi.org/10.22028/D291-35154" target="_blank" rel="noopener">DOI</a>]</dd>
@@ -23,7 +29,7 @@ permalink: /publications/
 
    <dt>Conference articles</dt>
    
-   <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA. ACM, New York, NY/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br>
+   <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3642183" target="_blank" rel="noopener"><em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em></a> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA. ACM, New York, NY/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br>
    <span style="color:#699eb5">&#8594; Best Paper Award at CHI 2024 &#127942;</span></dd>
 
    <dd><strong>I. Gessinger</strong>, M. Cohn, B. R. Cowan, G. Zellou, B. Möbius (2023): <a href="https://www.isca-archive.org/interspeech_2023/gessinger23_interspeech.pdf" target="_blank" rel="noopener"><em>Cross-linguistic Emotion Perception in Human and TTS Voices.</em></a> In: Interspeech, August 20-24, Dublin/Ireland, 5222-5226.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2023-711" target="_blank" rel="noopener">DOI</a>]</dd>
