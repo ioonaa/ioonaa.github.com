@@ -34,7 +34,9 @@ permalink: /publications/
    <p></p>
 
    <dt>Conference articles</dt>
-   
+
+   <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <em>PhoneViz: Exploring Alignments at a Glance.</em> In: Interspeech, September 1–5, Kos Island/Greece<br> [Conference, Show and Tell]
+      
    <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle. (2024): <em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em> In: ACM Conference on Conversational User Interfaces, July 8–10, Luxembourg City/Luxembourg.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2405.09002" target="_blank" rel="noopener">arXiv</a>]
    
    <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3642183" target="_blank" rel="noopener"><em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em></a> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br>
@@ -62,19 +64,13 @@ permalink: /publications/
    <dd>E. Raveh, I. Steiner, I. Siegert, <strong>I. Gessinger</strong>, B. Möbius (2019): <a href="https://www.essv.de/pdf/2019_42_49.pdf" target="_blank" rel="noopener"><em>Comparing Phonetic Changes in Computer-Directed and Human-Directed Speech.</em></a> In: 30th Conference on Electronic Speech Signal Processing (ESSV), March 6-8, Dresden/Germany, 42-49.<br> [Conference, Full Paper, Talk] <br>
 <span style="color:#699eb5">&#8594; Best Student Paper at ESSV 2019 &#127942;</span></dd>
 
-   <dd>E. Raveh, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius (2018): <a href="https://arxiv.org/pdf/1809.04945.pdf" target="_blank" rel="noopener"><em>Studying Mutual Phonetic Influence with a Web-Based Spoken Dialogue System.</em></a> In: 20th International Conference on Speech and Computer (SPECOM), September 18-22, Leipzig/Germany. Springer, Cham, 552-562.<br> [Conference, Full Paper, Talk]</dd>
+   <dd>E. Raveh, I. Steiner, <strong>I. Gessinger</strong>, B. Möbius (2018): <a href="https://doi.org/10.1007/978-3-319-99579-3_57" target="_blank" rel="noopener"><em>Studying Mutual Phonetic Influence with a Web-Based Spoken Dialogue System.</em></a> In: 20th International Conference on Speech and Computer (SPECOM), September 18-22, Leipzig/Germany. Springer, Cham, 552-562.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1007/978-3-319-99579-3_57" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.1809.04945" target="_blank" rel="noopener">arXiv</a>]</dd>
 
    <dd><strong>I. Gessinger</strong>, A. Schweitzer, B. Andreeva, E. Raveh, B. Möbius, I. Steiner (2018): <a href="https://www.isca-archive.org/speechprosody_2018/gessinger18_speechprosody.pdf" target="_blank" rel="noopener"><em>Convergence of Pitch Accents in a Shadowing Task.</em></a> In: Speech Prosody 9, June 13-16, Poznań/Poland, 225-229.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/SpeechProsody.2018-46" target="_blank" rel="noopener">DOI</a>]</dd>
 
    <dd><strong>I. Gessinger</strong>, E. Raveh, S. Le Maguer, B. Möbius, I. Steiner (2017): <a href="https://www.isca-archive.org/interspeech_2017/gessinger17_interspeech.pdf" target="_blank" rel="noopener"><em>Shadowing Synthesized Speech – Segmental Analysis of Phonetic Convergence.</em></a> In: Interspeech, August 20-24, Stockholm/Sweden, 3797-3801.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2017-1433" target="_blank" rel="noopener">DOI</a>]</dd>
 
    <dd>E. Raveh, <strong>I. Gessinger</strong>, S. Le Maguer, B. Möbius, I. Steiner (2017): <a href="https://www.essv.de/pdf/2017_254_261.pdf" target="_blank" rel="noopener"><em>Investigating Phonetic Convergence in a Shadowing Experiment with Synthetic Stimuli.</em></a> In: 28th Conference on Electronic Speech Signal Processing (ESSV), March 15-17, Saarbrücken/Germany, 254-261.<br> [Conference, Full Paper, Poster]</dd>
-
-   <p></p>
-
-   <dt>Show and Tell</dt>
-
-   <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <em>PhoneViz: Exploring Alignments at a Glance.</em> In: Interspeech, September 1–5, Kos Island/Greece<br> [Conference, Show and Tell]
    
    <p></p>
    
