@@ -66,7 +66,7 @@ permalink: /publications/
    
    <dt>Invited talks</dt>
 
-   <dd><strong>I. Gessinger</strong> (2022): <em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
+   <dd><<em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, 2022, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
 
    <dd><em>Cross-Cultural Comparison of Gradient Emotion Perception.</em> In: Research Colloquium of the Multilinguality and Language Technology (MLT) group at the German Research Centre for Artificial Intelligence (DFKI), August 16, 2022, Saarbrücken/Germany.<br> [Colloquium, Talk]</dd>
 
@@ -80,7 +80,7 @@ permalink: /publications/
 
    <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: 10th Biennial International Conference on the Linguistics of Contemporary English (BICLCE), September 26-28, Alicante/Spain.<br> [Conference, Abstract, Talk]</dd>
 
-      <dd><strong>I. Gessinger</strong> (2020): <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor.</em> In: PhD Day SFB 1102, February 10, Saarbrücken/Germany.<br> [Colloquium, Abstract, Talk]</dd>
+   <dd><strong>I. Gessinger</strong> (2020): <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor.</em> In: PhD Day SFB 1102, February 10, Saarbrücken/Germany.<br> [Colloquium, Abstract, Talk]</dd>
 
    <dd><strong>I. Gessinger</strong>, B. Möbius, E. Raveh, I. Steiner (2019): <em>Human-Computer Interaction: Convergence in Allophonic Contrasts.</em> In: 41. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), March 6-8, Bremen/Germany.<br> [Conference, Abstract, Talk]</dd>
 
@@ -90,11 +90,11 @@ permalink: /publications/
 
 <dd><strong>I. Gessinger</strong>, B. Möbius, I. Steiner (2017): <em>Capturing Phonetic Convergence by Global Analysis of Spectral Distance.</em> In: Phonetik und Phonologie 13, September 28-29, Berlin/Germany.<br> [Conference, Abstract, Talk]</dd>
 
-    <dd><strong>I. Gessinger</strong> (2015): <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
+   <dd><strong>I. Gessinger</strong> (2015): <em>Foreign Accent Imitation Under the Condition of Enhanced Intelligibility.</em> In: 24th Annual Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), July 7-10, Leiden/The Netherlands.<br> [Conference, Abstract, Talk]</dd>
 
    <p></p>
 
-    <dt>Conference posters</dt>
+   <dt>Conference posters</dt>
 
    <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: UK and Ireland Speech, July 1-2, Cambridge/UK.<br> [Conference, Abstract, Poster]</dd>
    
