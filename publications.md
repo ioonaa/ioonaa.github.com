@@ -23,7 +23,7 @@ permalink: /publications/
 
    <dt>Conference articles</dt>
    
-   <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA. ACM, New York, NY/USA, 13 pages.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>]
+   <dd>R. Jaber, S. Zhong, S. Kuoppamäki, A. Hosseini, <strong>I. Gessinger</strong>, D. P. Brumby, B. R. Cowan, D. McMillan (2024): <em>Cooking With Agents: Designing Context-aware Voice Interaction for Complex Tasks.</em> In: CHI Conference on Human Factors in Computing Systems, May 11–16, Honolulu, HI/USA. ACM, New York, NY/USA, 13 pages.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3613904.3642183" target="_blank" rel="noopener">DOI</a>] <br>
    <span style="color:#699eb5">&#8594; Best Paper Award at CHI 2024 &#127942;</span></dd>
 
    <dd><strong>I. Gessinger</strong>, M. Cohn, B. R. Cowan, G. Zellou, B. Möbius (2023): <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2023/gessinger23_interspeech.pdf" target="_blank" rel="noopener"><em>Cross-linguistic Emotion Perception in Human and TTS Voices.</em></a> In: Interspeech, August 20-24, Dublin/Ireland, 5222-5226.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2023-711" target="_blank" rel="noopener">DOI</a>]</dd>
