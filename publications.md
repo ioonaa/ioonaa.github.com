@@ -35,7 +35,7 @@ permalink: /publications/
 
    <dt>Conference articles</dt>
 
-   <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <em>PhoneViz: Exploring Alignments at a Glance.</em> In: Interspeech, September 1–5, Kos Island/Greece.<br> [Conference, Show and Tell]
+   <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <em>PhoneViz: Exploring Alignments at a Glance.</em> In: Interspeech, September 1–5, Kos Island/Greece.<br> [Conference, Short Paper, Show and Tell]
       
    <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle. (2024): <em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em> In: ACM Conference on Conversational User Interfaces, July 8–10, Luxembourg City/Luxembourg.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2405.09002" target="_blank" rel="noopener">arXiv</a>]
    
@@ -43,7 +43,7 @@ permalink: /publications/
 
    <dd><strong>I. Gessinger</strong>, M. Cohn, B. R. Cowan, G. Zellou, B. Möbius (2023): <a href="https://www.isca-archive.org/interspeech_2023/gessinger23_interspeech.pdf" target="_blank" rel="noopener"><em>Cross-linguistic Emotion Perception in Human and TTS Voices.</em></a> In: Interspeech, August 20-24, Dublin/Ireland, 5222-5226.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2023-711" target="_blank" rel="noopener">DOI</a>]</dd>
 
-   <dd>S. Davern, O. Cooney, <strong>I. Gessinger</strong>, B. R. Cowan (2023): <a href="https://dl.acm.org/doi/pdf/10.1145/3571884.3604306?casa_token=k7QDA5O0OXMAAAAA:EzEN1mccPxx0Pb5pMxe4zlo3m9rcFpUuvOquF0U43gUfjg3FumS2E2E9Av4szisbRY6CHtMgrn6X" target="_blank" rel="noopener"><em>Investigating the Usability of a Speech Agent-based Role-playing Game.</em></a> In: ACM Conference on Conversational User Interfaces, July 19-21, Eindhoven/The Netherlands, 38.<br> [Conference, Full Paper, Poster, <a href="https://doi.org/10.1145/3571884.3604306" target="_blank" rel="noopener">DOI</a>]</dd>
+   <dd>S. Davern, O. Cooney, <strong>I. Gessinger</strong>, B. R. Cowan (2023): <a href="https://dl.acm.org/doi/pdf/10.1145/3571884.3604306?casa_token=k7QDA5O0OXMAAAAA:EzEN1mccPxx0Pb5pMxe4zlo3m9rcFpUuvOquF0U43gUfjg3FumS2E2E9Av4szisbRY6CHtMgrn6X" target="_blank" rel="noopener"><em>Investigating the Usability of a Speech Agent-based Role-playing Game.</em></a> In: ACM Conference on Conversational User Interfaces, July 19-21, Eindhoven/The Netherlands, 38.<br> [Conference, Short Paper, Poster, <a href="https://doi.org/10.1145/3571884.3604306" target="_blank" rel="noopener">DOI</a>]</dd>
 
    <dd><strong>I. Gessinger</strong>, M. Cohn, G. Zellou, B. Möbius (2022): <a href="https://www.isca-archive.org/interspeech_2022/gessinger22_interspeech.pdf" target="_blank" rel="noopener"><em>Cross-Cultural Comparison of Gradient Emotion Perception: Human vs. Alexa TTS Voices.</em></a> In: Interspeech, September 18-22, Incheon/South Korea, 4970-4974.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2022-146" target="_blank" rel="noopener">DOI</a>]</dd> 
 
@@ -132,7 +132,6 @@ Introducing a Wizard-of-Oz Experiment.</em> In: Phonetik und Phonologie 14, Sept
    <dd><strong>I. Gessinger</strong> (2015): <em>Feedback in Pronunciation Training – Experience from Classroom Interaction.</em> In: Workshop on Feedback in Pronunciation Training, November 4-6, Tholey/Germany.<br> [Workshop, Abstract, Poster]</dd>
 
    <dd><strong>I. Gessinger</strong> and L. Löff Machado (2014): <em>Dialetalidade como Dist&acirc;ncia Fon&eacute;tica: Media&ccedil;&atilde;o da Compet&ecirc;ncia em Alem&atilde;o Standard.</em> In: Encontro Comemorativo do Projeto VARSUL – Varia&ccedil;&atilde;o Linguística na Regi&atilde;o Sul do Brasil, December 11-12, Pontif&iacute;cia Universidade Cat&oacute;lica do Rio Grande do Sul, Porto Alegre/Brazil.<br> [Colloquium, Abstract, Poster]</dd>
-   
-</dl>
+   </dl>
 
 
