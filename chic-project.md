@@ -18,7 +18,7 @@ In the second funding phase, we extended the experimental approach to a <strong>
 
 The project also aims to develop a quantitative model of phonetic convergence in spoken HCI, build synthetic voices that are capable of adapting their speech output to the user's speech patterns, and derive implications for the design of conversational interfaces in speech technology.
 
-Find publications of the CHIC project <a href="https://ioonaa.github.io/publications/" target="_blank" rel="noopener">here</a> and <a href="https://www.coli.uni-saarland.de/~raveh/#conferences" target="_blank" rel="noopener">here</a>.
+Find publications of the CHIC project <a href="https://ioonaa.github.io/publications/" target="_blank" rel="noopener">here</a>.
 
 Past collaborators (including student assistants) of the CHIC project are (in alphabetical order):
 <ul>
