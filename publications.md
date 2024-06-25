@@ -35,6 +35,10 @@ permalink: /publications/
 
    <dt>Conference articles</dt>
 
+   <dd><strong>I. Gessinger</strong>, B. Andreeva, B. R. Cowan (2024): <em>The Use of Modifiers and f0 in Remote Referential Communication with Human and Computer Partners.</em> In: Interspeech, September 1–5, Kos Island/Greece.<br> [Conference, Full Paper]</dd>
+   
+   <dd>E. A. Shams, <strong>I. Gessinger</strong>, P. C. English, J. Carson-Berndsen (2024): <em>Are Articulatory Feature Overlaps Shrouded in Speech Embeddings?</em> In: Interspeech, September 1–5, Kos Island/Greece.<br> [Conference, Full Paper]</dd>
+
    <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <em>PhoneViz: Exploring Alignments at a Glance.</em> In: Interspeech, September 1–5, Kos Island/Greece.<br> [Conference, Short Paper, Show and Tell]
       
    <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle. (2024): <em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em> In: ACM Conference on Conversational User Interfaces, July 8–10, Luxembourg City/Luxembourg.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2405.09002" target="_blank" rel="noopener">arXiv</a>]
