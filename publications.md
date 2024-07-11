@@ -111,7 +111,7 @@ permalink: /publications/
 
    <dt>Conference posters</dt>
 
- <dd> J. He and <strong>I. Gessinger</strong>: <em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em> In: Phonetik und Phonologie 20, Oktober 1–2, Halle/Germany.<br> [Conference, Abstract, Poster]</dd>
+ <dd> J. He and <strong>I. Gessinger</strong> (2024): <em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em> In: Phonetik und Phonologie 20, Oktober 1–2, Halle/Germany.<br> [Conference, Abstract, Poster]</dd>
    
    <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: UK and Ireland Speech, July 1-2, Cambridge/UK.<br> [Conference, Abstract, Poster]</dd>
    
