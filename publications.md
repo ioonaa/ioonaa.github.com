@@ -6,10 +6,10 @@ permalink: /publications/
 
 
    <dt>Under Review</dt>
+
+   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal]</dd>
    
    <dd> <strong>I. Gessinger</strong>, K. Seaborn, M. Steeds, B. R. Cowan: <em>ChatGPT and Me: First-Time and Experienced Users' Perceptions of ChatGPT's Communicative Ability as a Dialogue Partner.</em> Submitted to International Journal of Human-Computer Studies.<br> [Journal, <a href="http://dx.doi.org/10.2139/ssrn.4829547" target="_blank" rel="noopener">SSRN</a>]</dd>
-    
-   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal]</dd>
    
    <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan: <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em> Submitted to ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>]</dd>
    <p></p>
