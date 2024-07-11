@@ -12,9 +12,6 @@ permalink: /publications/
    <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal]</dd>
    
    <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan: <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em> Submitted to ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>]</dd>
-
-   <dd> J. He and <strong>I. Gessinger</strong>: <em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em><br> [Conference, Abstract]</dd>
-
    <p></p>
    
    <dt>Dissertation</dt>
@@ -114,6 +111,8 @@ permalink: /publications/
 
    <dt>Conference posters</dt>
 
+ <dd> J. He and <strong>I. Gessinger</strong>: <em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em> In: Phonetik und Phonologie 20, Oktober 1–2, Halle/Germany.<br> [Conference, Abstract, Poster]</dd>
+   
    <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: UK and Ireland Speech, July 1-2, Cambridge/UK.<br> [Conference, Abstract, Poster]</dd>
    
    <dd><strong>I. Gessinger</strong> and B. R. Cowan (2023): <em>Prosody in Referential Communication with a Human or a Computer Partner.</em> In: UK Speech, June 14-15, Sheffield/UK.<br> [Conference, Abstract, Poster]</dd>
