@@ -36,6 +36,8 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
    <dt>Conference articles</dt>
 
    <dd>E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen (2024): <a href="https://aclanthology.org/2024.blackboxnlp-1.16.pdf" target="_blank" rel="noopener"><em>Uncovering Syllable Constituents in the Self-Attention-Based Speech Representations of Whisper.</em></a> In: BlackboxNLP, November 5, Miami/USA, 238-247<br> [Workshop, Full Paper, Poster, <a href="https://aclanthology.org/2024.blackboxnlp-1.16" target="_blank" rel="noopener">ACL Anthology</a>]</dd>
+
+   <dd> J. He and <strong>I. Gessinger</strong> (2024): <em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em> In: Phonetik und Phonologie 20, Oktober 1–2, Halle/Germany.<br> [Conference, Full Paper, Poster]</dd>
    
    <dd><strong>I. Gessinger</strong>, B. Andreeva, B. R. Cowan (2024): <a href="https://www.isca-archive.org/interspeech_2024/gessinger24_interspeech.pdf" target="_blank" rel="noopener"><em>The Use of Modifiers and f0 in Remote Referential Communication with Human and Computer Partners.</em></a> In: Interspeech, September 1–5, Kos Island/Greece, 1575-1579.<br> [Conference, Full Paper, Poster, <a href="https://doi.org/10.21437/Interspeech.2024-1169" target="_blank" rel="noopener">DOI</a>]</dd>
    
@@ -115,8 +117,6 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
    <p></p>
 
    <dt>Conference posters</dt>
-
- <dd> J. He and <strong>I. Gessinger</strong> (2024): <em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em> In: Phonetik und Phonologie 20, Oktober 1–2, Halle/Germany.<br> [Conference, Abstract, Poster]</dd>
    
    <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: UK and Ireland Speech, July 1-2, Cambridge/UK.<br> [Conference, Abstract, Poster]</dd>
    
