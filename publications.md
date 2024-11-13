@@ -9,8 +9,6 @@ permalink: /publications/
 
    <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal]</dd>
    
-   <dd> <strong>I. Gessinger</strong>, K. Seaborn, M. Steeds, B. R. Cowan: <em>ChatGPT and Me: First-Time and Experienced Users' Perceptions of ChatGPT's Communicative Ability as a Dialogue Partner.</em> Submitted to International Journal of Human-Computer Studies.<br> [Journal, <a href="http://dx.doi.org/10.2139/ssrn.4829547" target="_blank" rel="noopener">SSRN</a>]</dd>
-   
    <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan: <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em> Submitted to ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>]</dd>
    <p></p>
    
@@ -21,7 +19,12 @@ permalink: /publications/
    <p></p>
    
    <dt>Journal articles</dt>
-   
+
+   <dd> <strong>I. Gessinger</strong>, K. Seaborn, M. Steeds, B. R. Cowan (2024): <a href="https://www.sciencedirect.com/science/article/abs/pii/S1071581924001836" target="_blank" rel="noopener"><em>ChatGPT and Me: First-Time and Experienced Users' Perceptions of ChatGPT's Communicative Ability as a Dialogue Partner.</em></a> In: International Journal of Human-Computer Studies.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2024.103400" target="_blank" rel="noopener">DOI</a>]</dd>
+
+   <dd>S. O’Connor Russell, <strong>I. Gessinger</strong>, A. Krason, G. Vigliocco, N. Harte (2024): <a href="https://www.sciencedirect.com/science/article/pii/S2772766124000697" target="_blank" rel="noopener"><em>What automatic speech recognition can and cannot do for
+conversational speech transcription.</em></a> In: Research Methods in Applied Linguistics 3(3), 100163.<br> [Journal, <a href="https://doi.org/10.1016/j.rmal.2024.100163" target="_blank" rel="noopener">DOI</a>]</dd>
+
    <dd>P. R. Peña, P. Doyle, J. Edwards, D. Garaialde, D. Rough, A. Bleakley, L. Clark, A. Tobar Henriquez, H. Branigan, <strong>I. Gessinger</strong>, B. R. Cowan (2023): <a href="https://www.sciencedirect.com/science/article/pii/S1071581923000678" target="_blank" rel="noopener"><em>Audience Design and Egocentrism in Reference Production during Human-Computer Dialogue.</em></a> In: International Journal of Human-Computer Studies 176, 103058.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2023.103058" target="_blank" rel="noopener">DOI</a>]</dd>
 
    <dd><strong>I. Gessinger</strong>, B. Möbius, S. Le Maguer, E. Raveh, I. Steiner (2021): <a href="https://www.sciencedirect.com/science/article/pii/S0095447021000012" target="_blank" rel="noopener"><em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor: a Wizard-of-Oz Study.</em></a> In: Journal of Phonetics 86, 101029.<br> [Journal, <a href="https://doi.org/10.1016/j.wocn.2021.101029" target="_blank" rel="noopener">DOI</a>]</dd>
@@ -32,11 +35,11 @@ permalink: /publications/
 
    <dt>Conference articles</dt>
 
-   <dd><strong>I. Gessinger</strong>, B. Andreeva, B. R. Cowan (2024): <em>The Use of Modifiers and f0 in Remote Referential Communication with Human and Computer Partners.</em> In: Interspeech, September 1–5, Kos Island/Greece.<br> [Conference, Full Paper]</dd>
+   <dd><strong>I. Gessinger</strong>, B. Andreeva, B. R. Cowan (2024): <a href="https://www.isca-archive.org/interspeech_2024/gessinger24_interspeech.pdf" target="_blank" rel="noopener"><em>The Use of Modifiers and f0 in Remote Referential Communication with Human and Computer Partners.</em></a> In: Interspeech, September 1–5, Kos Island/Greece, 1575-1579.<br> [Conference, Full Paper, Poster, <a href="https://doi.org/10.21437/Interspeech.2024-1169" target="_blank" rel="noopener">DOI</a>]</dd>
    
-   <dd>E. A. Shams, <strong>I. Gessinger</strong>, P. C. English, J. Carson-Berndsen (2024): <em>Are Articulatory Feature Overlaps Shrouded in Speech Embeddings?</em> In: Interspeech, September 1–5, Kos Island/Greece.<br> [Conference, Full Paper]</dd>
+   <dd>E. A. Shams, <strong>I. Gessinger</strong>, P. C. English, J. Carson-Berndsen (2024): <a href="https://www.isca-archive.org/interspeech_2024/gessinger24_interspeech.pdf" target="_blank" rel="noopener"><em>Are Articulatory Feature Overlaps Shrouded in Speech Embeddings?</em></a> In: Interspeech, September 1–5, Kos Island/Greece, 4608-4612.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.21437/Interspeech.2024-1039" target="_blank" rel="noopener">DOI</a>]</dd>
 
-   <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <em>PhoneViz: Exploring Alignments at a Glance.</em> In: Interspeech, September 1–5, Kos Island/Greece.<br> [Conference, Short Paper, Show and Tell]
+   <dd>M. Masson, E. A. Shams, <strong>I. Gessinger</strong>, J. Carson-Berndsen. (2024): <a href="https://www.isca-archive.org/interspeech_2024/masson24_interspeech.pdf" target="_blank" rel="noopener"><em>PhoneViz: Exploring Alignments at a Glance.</em></a> In: Interspeech, September 1–5, Kos Island/Greece, 3648-3649.<br> [Conference, Short Paper, Show and Tell]
       
    <dd>K. Seaborn, <strong>I. Gessinger</strong>, S. Yoshida, B. R. Cowan, P. R. Doyle (2024): <a href="https://dl.acm.org/doi/pdf/10.1145/3640794.3665537" target="_blank" rel="noopener"><em>Cross-Cultural Validation of Partner Models for Voice User Interfaces.</em></a> In: ACM Conference on Conversational User Interfaces, July 8–10, Luxembourg City/Luxembourg, Article 19, 1-10.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2405.09002" target="_blank" rel="noopener">arXiv</a>]
 
