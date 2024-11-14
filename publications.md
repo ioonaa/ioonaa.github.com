@@ -20,7 +20,7 @@ permalink: /publications/
    
    <dt>Journal articles</dt>
 
-   <dd> <strong>I. Gessinger</strong>, K. Seaborn, M. Steeds, B. R. Cowan (2024): <a href="https://www.sciencedirect.com/science/article/abs/pii/S1071581924001836" target="_blank" rel="noopener"><em>ChatGPT and Me: First-Time and Experienced Users' Perceptions of ChatGPT's Communicative Ability as a Dialogue Partner.</em></a> In: International Journal of Human-Computer Studies.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2024.103400" target="_blank" rel="noopener">DOI</a>, <a href="http://dx.doi.org/10.2139/ssrn.4829547" target="_blank" rel="noopener">SSRN</a>]</dd> 
+   <dd> <strong>I. Gessinger</strong>, K. Seaborn, M. Steeds, B. R. Cowan (2025): <a href="https://www.sciencedirect.com/science/article/abs/pii/S1071581924001836" target="_blank" rel="noopener"><em>ChatGPT and Me: First-Time and Experienced Users' Perceptions of ChatGPT's Communicative Ability as a Dialogue Partner.</em></a> In: International Journal of Human-Computer Studies 194, 103400.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2024.103400" target="_blank" rel="noopener">DOI</a>, <a href="http://dx.doi.org/10.2139/ssrn.4829547" target="_blank" rel="noopener">SSRN</a>]</dd>
  
    <dd>S. O’Connor Russell, <strong>I. Gessinger</strong>, A. Krason, G. Vigliocco, N. Harte (2024): <a href="https://www.sciencedirect.com/science/article/pii/S2772766124000697" target="_blank" rel="noopener"><em>What automatic speech recognition can and cannot do for
 conversational speech transcription.</em></a> In: Research Methods in Applied Linguistics 3(3), 100163.<br> [Journal, <a href="https://doi.org/10.1016/j.rmal.2024.100163" target="_blank" rel="noopener">DOI</a>]</dd>
