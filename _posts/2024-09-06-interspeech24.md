@@ -3,7 +3,7 @@ layout: post
 title: Interspeech 2024 (September 1-5, 2024)
 ---
 
-Two very different worlds collided at <a href="https://interspeech2024.org/" target="_blank" rel="noopener">Interspeech</a> this year: speech science and all-inclusive tourism. &#128516; 
+Two very different worlds collided at <strong><a href="https://interspeech2024.org/" target="_blank" rel="noopener">Interspeech</a></strong> this year: speech science and all-inclusive tourism. &#128516; 
 We had a very good time on Kos Island in Greece! 
 
 ![Foto]({{ site.url }}/images/interspeech_2024.jpg "Interspeech 2024 impressions"){:height="400" .center-image}
