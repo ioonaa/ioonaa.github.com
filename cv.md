@@ -113,7 +113,6 @@ permalink: /cv/
 	<dt>2016-2017</dt>	
 	<dd><strong>Local Organizer</strong>
 	<em>Young Researchers' Roundtable on Spoken Dialogue Systems (YRRSDS)</em><br>
-	Local organizer for the 2017 YRRSDS in Saarbrücken, Germany.
 	</dd> 
 </dl>
 
