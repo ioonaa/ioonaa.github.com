@@ -33,7 +33,7 @@ permalink: /cv/
 	<dd><strong>Postdoctoral Researcher</strong>, <em>University College Dublin, Ireland</em></dd>
 	<dd>Affiliated with the <a href="https://www.adaptcentre.ie/" target="_blank" rel="noopener">ADAPT Centre for AI-Driven Digital Content Technology</a></dd>
 	<dd>since 2023: School of Computer Science</dd>
-	<dd>2022-2023: HCI@UCD group at the School of Information and Communication Studies</dd>
+	<dd>2022-2023: School of Information and Communication Studies, HCI@UCD group</dd>
 </dl>
 
 <dl>
