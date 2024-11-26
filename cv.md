@@ -94,7 +94,6 @@ permalink: /cv/
 			<li>2018-2022: <em>Board Member</em></li>
 			<li>2016-2017: <em>Volunteer</em></li>
 		</ul>
-	ISCA-SAC organizes student events at the annual ISCA Interspeech conference.
 	</dd>
 	
 </dl>
