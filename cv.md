@@ -20,7 +20,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2012</dt>	
-	<dd><strong>Bachelor of Arts</strong>: Romance Languages and Literature, Speech Science & Phonetics, <em>University of Jena, Germany</em><br>
+	<dd><strong>Bachelor of Arts</strong>: Romance Languages, Speech Science & Phonetics, <em>University of Jena, Germany</em><br>
 	Thesis topic: authenticity of French pronunciation in native speakers of German</dd>
 	
 </dl>
