@@ -69,18 +69,18 @@ permalink: /cv/
 <dl>
 	<dt>since 2021</dt>	
 	<dd><strong>Co-chair</strong>
-	<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener"><em>Young Female Researchers in Speech Workshop</em></a></dd>
+	<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener">Young Female Researchers in Speech Workshop</a></dd>
 </dl>
 
 <dl>
 	<dt>2021</dt>	
 	<dd><strong>Co-chair</strong>
-	<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener"><i>Human Perspectives on Spoken Human-Machine Interaction Conference</i></a></dd>
+	<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Human Perspectives on Spoken Human-Machine Interaction Conference</a></dd>
 </dl>
 
 <dl>
 	<dt>2020-2022</dt>	
-	<dd><strong>Member</strong> <a href="https://www.isca-speech.org/Distinguished-Lecturers" target="_blank" rel="noopener"><i>ISCA Distinguished Lecturer Selection Committee</i></a></dd>
+	<dd><strong>Member</strong> <a href="https://www.isca-speech.org/Distinguished-Lecturers" target="_blank" rel="noopener">ISCA Distinguished Lecturer Selection Committee</a></dd>
 </dl>
 
 <dl>
@@ -100,9 +100,8 @@ permalink: /cv/
 
 <dl>
 	<dt>2016-2022</dt>	
-	<dd><strong>Associated member</strong> <i>SFB 1102: Information Density and Linguistic Encoding</i> and its Integrated Research Training Group (IGK)<br>
+	<dd><strong>Associated member</strong> <a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102: Information Density and Linguistic Encoding</a> and its Integrated Research Training Group (IGK)<br>
 	<em>Saarland University, Saarbrücken, Germany</em>
-	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]
 	</dd>
 </dl>
 
@@ -116,9 +115,9 @@ permalink: /cv/
 <dl>
 	<dt>2013-2022</dt>	
 	<dd><strong>Newsreader</strong>
-	<em>atz Hörmedien für Sehbehinderte und Blinde e.V.</em><br>
+	<a href="https://www.blindenzeitung.de/index.php/service/auskunft-2?eid=241" target="_blank" rel="noopener">atz Hörmedien für Sehbehinderte und Blinde e.V.</a><br>
 	MIKS - an audio journal for visually impaired and blind people that makes local news accessible.
-	[<a href="https://www.blindenzeitung.de/index.php/service/auskunft-2?eid=241" target="_blank" rel="noopener">atz website: MIKS</a>]</dd>
+	</dd>
 </dl>
 
 
