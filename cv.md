@@ -9,7 +9,7 @@ permalink: /cv/
 <dl>
 	<dt>2022</dt>	
 	<dd><strong>Doctor of Philosophy</strong>: Phonetics, <em>Saarland University, Saarbrücken, Germany</em><br>
-	Thesis topic: phonetic accommodation of humans communicating with a spoken dialog system</dd>
+	Thesis topic: phonetic accommodation of humans communicating with a spoken dialogue system</dd>
 </dl>
 
 <dl>
