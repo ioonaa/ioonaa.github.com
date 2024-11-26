@@ -29,18 +29,11 @@ permalink: /cv/
 ## Work
 
 <dl>
-	<dt>since 2023</dt>	
+	<dt>since 2022</dt>	
 	<dd><strong>Postdoctoral Researcher</strong>, <em>University College Dublin, Ireland</em></dd>
-	<dd>School of Computer Science</dd>
 	<dd>Affiliated with the <a href="https://www.adaptcentre.ie/" target="_blank" rel="noopener">ADAPT Centre for AI-Driven Digital Content Technology</a></dd>
-</dl>
-
-<dl>
-	<dt>2022-2023</dt>	
-	<dd><strong>Postdoctoral Researcher</strong>, <em>University College Dublin, Ireland</em></dd>
-	<dd>HCI@UCD group at the School of Information and Communication Studies</dd>
- 	<dd>Affiliated with the <a href="https://www.adaptcentre.ie/" target="_blank" rel="noopener">ADAPT Centre for AI-Driven Digital Content Technology</a></dd>
-	
+	<dd>since 2023: School of Computer Science</dd>
+	<dd>2022-2023: HCI@UCD group at the School of Information and Communication Studies</dd>
 </dl>
 
 <dl>
@@ -74,7 +67,7 @@ permalink: /cv/
 	<dt>since 2021</dt>	
 	<dd><strong>Co-organizer</strong><br>
 	<em>Young Female Researchers in Speech Workshop</em><br>
-	[<a href="https://sites.google.com/view/yfrsw-2023" target="_blank" rel="noopener">Workshop website</a>]</dd>
+	[<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener">Workshop website</a>]</dd>
 </dl>
 
 <dl>
@@ -88,7 +81,7 @@ permalink: /cv/
 	<dt>2020-2022</dt>	
 	<dd><strong>ISCA Distinguished Lecturer Selection Committee</strong><br>
 	<em>Representative of SAC</em><br>
-	[<a href="https://www.isca-speech.org/iscaweb/index.php/distinguished-lecturers" target="_blank" rel="noopener">ISCA website: Distinguished Lecturers</a>]</dd>
+	[<a href="https://www.isca-speech.org/Distinguished-Lecturers" target="_blank" rel="noopener">ISCA website: Distinguished Lecturers</a>]</dd>
 </dl>
 
 <dl>
