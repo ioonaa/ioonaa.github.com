@@ -41,27 +41,27 @@ permalink: /cv/
 
 <dl>
 	<dt>2016-2022</dt>	
-	<dd><strong>Research Associate</strong>, <em>Saarland University, Saarbrücken, Germany</em></dd>
-	<dd>Department of Language Science and Technology, Phonetics and Phonology group</dd>
-	<dd>Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a>, funded by Deutsche Forschungsgemeinschaft (DFG)</dd>
+	<dd><strong>Research Associate</strong>, <em>Saarland University, Saarbrücken, Germany</em><br>
+	Department of Language Science and Technology, Phonetics and Phonology group<br>
+	Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a>, funded by Deutsche Forschungsgemeinschaft (DFG)</dd>
 </dl>
 
 <dl>
 	<dt>2015-2016</dt>	
-	<dd><strong>Research Associate</strong>, <em>Forschungszentrum Deutscher Sprachatlas, Marburg, Germany</em></dd>
-	<dd>Project: regionalsprache.de (REDE), fundend by Akademie der Wissenschaften und der Literatur, Mainz</dd>
+	<dd><strong>Research Associate</strong>, <em>Forschungszentrum Deutscher Sprachatlas, Marburg, Germany</em><br>
+	Project: regionalsprache.de (REDE), fundend by Akademie der Wissenschaften und der Literatur, Mainz</dd>
 </dl>
 
 <dl>
 	<dt>2014-2015</dt>	
-	<dd><strong>Teaching Associate</strong>, <em>Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil</em></dd>
-	<dd>Joint scholarship program of the German Academic Exchange Service (DAAD) and the Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES).</dd>
+	<dd><strong>Teaching Associate</strong>, <em>Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil</em><br>
+	Joint scholarship program of the German Academic Exchange Service (DAAD) and the Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES).</dd>
 </dl>
 
 <dl>
 	<dt>2010-2011</dt>	
-	<dd><strong>Foreign Language Assistant</strong>, <em>Lycée Ronsard, Vendôme, France</em></dd>
-	<dd>Scholarship program of the PAD (Pädagogischer Austauschdienst) on behalf of the Ministers of Education and Culture of the Federal States, Germany.</dd>
+	<dd><strong>Foreign Language Assistant</strong>, <em>Lycée Ronsard, Vendôme, France</em><br>
+	Scholarship program of the PAD (Pädagogischer Austauschdienst) on behalf of the Ministers of Education and Culture of the Federal States, Germany.</dd>
 </dl>
 
 ## Other
