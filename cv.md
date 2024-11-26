@@ -82,8 +82,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2020-2022</dt>	
-	<dd><strong>ISCA Distinguished Lecturer Selection Committee</strong><br>
-	<em>Representative of ISCA-SAC</em><br>
+	<dd><strong>Member</strong> <i>ISCA Distinguished Lecturer Selection Committee</i><br>
 	[<a href="https://www.isca-speech.org/Distinguished-Lecturers" target="_blank" rel="noopener">ISCA website: Distinguished Lecturers</a>]</dd>
 </dl>
 
@@ -104,7 +103,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2016-2022</dt>	
-	<dd><strong>Associated member</strong><i>SFB 1102: Information Density and Linguistic Encoding</i> and its Integrated Research Training Group (IGK)<br>
+	<dd><strong>Associated member</strong> <i>SFB 1102: Information Density and Linguistic Encoding</i> and its Integrated Research Training Group (IGK)<br>
 	<em>Saarland University, Saarbrücken, Germany</em><br>
 	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]<br>
 	</dd>
@@ -120,7 +119,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2013-2022</dt>	
-	<dd><strong>Newsreader</strong><br>
+	<dd><strong>Newsreader</strong>
 	<em>atz Hörmedien für Sehbehinderte und Blinde e.V.</em><br>
 	MIKS - an audio journal for visually impaired and blind people that makes local news accessible.<br>
 	[<a href="https://www.blindenzeitung.de/index.php/service/auskunft-2?eid=241" target="_blank" rel="noopener">atz website: MIKS</a>]</dd>
