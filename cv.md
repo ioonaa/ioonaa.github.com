@@ -104,7 +104,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2016-2022</dt>	
-	<dd><strong>Associated member of SFB 1102: <i>Information Density and Linguistic Encoding</i> and its Integrated Research Training Group (IGK)</strong><br>
+	<dd><strong>Associated member</strong><i>SFB 1102: Information Density and Linguistic Encoding</i> and its Integrated Research Training Group (IGK)<br>
 	<em>Saarland University, Saarbrücken, Germany</em><br>
 	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]<br>
 	</dd>
@@ -112,7 +112,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2016-2017</dt>	
-	<dd><strong>Local Organizer</strong><br>
+	<dd><strong>Local Organizer</strong>
 	<em>Young Researchers' Roundtable on Spoken Dialogue Systems (YRRSDS)</em><br>
 	Local organizer for the 2017 YRRSDS in Saarbrücken, Germany.
 	</dd> 
