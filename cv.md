@@ -68,14 +68,14 @@ permalink: /cv/
 
 <dl>
 	<dt>since 2021</dt>	
-	<dd><strong>Co-organizer</strong><br>
+	<dd><strong>Co-organizer</strong>
 	<em>Young Female Researchers in Speech Workshop</em><br>
 	[<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener">Workshop website</a>]</dd>
 </dl>
 
 <dl>
 	<dt>2021</dt>	
-	<dd><strong>Co-organizer</strong><br>
+	<dd><strong>Co-organizer</strong>
 	<em>Conference: Human Perspectives on Spoken Human-Machine Interaction</em><br>
 	[<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Conference website</a>]</dd>
 </dl>
@@ -94,9 +94,9 @@ permalink: /cv/
 			<li>2021-2022: <em>Advisor</em></li>
 			<li>2020: <em>General Coordinator</em></li>
 			<li>2018-2022: <em>Board Member</em></li>
-			<li>2016-2017: <em>Volunteer</em></dd>
+			<li>2016-2017: <em>Volunteer</em></li>
 		</ul>
-	<dd>We are organizing student events for the annual Interspeech conference.<br>
+	We are organizing student events for the annual Interspeech conference.<br>
 	[<a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA-SAC website</a>]<br>
 	</dd>
 	
@@ -113,16 +113,16 @@ permalink: /cv/
 <dl>
 	<dt>2016-2017</dt>	
 	<dd><strong>Local Organizer</strong><br>
-	<em>Young Researchers' Roundtable on Spoken Dialogue Systems</em></dd>
-	<dd>I was a local organizer for the 2017 YRRSDS in Saarbrücken, Germany.<br>
-</dd> 
+	<em>Young Researchers' Roundtable on Spoken Dialogue Systems</em><br>
+	I was a local organizer for the 2017 YRRSDS in Saarbrücken, Germany.
+	</dd> 
 </dl>
 
 <dl>
 	<dt>2013-2022</dt>	
 	<dd><strong>Newsreader</strong><br>
-	<em>atz Hörmedien für Sehbehinderte und Blinde e.V.</em></dd>
-	<dd>MIKS - an audio journal for visually impaired and blind people that makes local news accessible.<br>
+	<em>atz Hörmedien für Sehbehinderte und Blinde e.V.</em><br>
+	MIKS - an audio journal for visually impaired and blind people that makes local news accessible.<br>
 	[<a href="https://www.blindenzeitung.de/index.php/service/auskunft-2?eid=241" target="_blank" rel="noopener">atz website: MIKS</a>]</dd>
 </dl>
 
