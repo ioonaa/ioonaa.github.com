@@ -69,20 +69,20 @@ permalink: /cv/
 <dl>
 	<dt>since 2021</dt>	
 	<dd><strong>Co-organizer</strong>
-	<em>Young Female Researchers in Speech Workshop</em><br>
+	<em>Young Female Researchers in Speech Workshop</em>
 	[<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener">Workshop website</a>]</dd>
 </dl>
 
 <dl>
 	<dt>2021</dt>	
 	<dd><strong>Co-organizer</strong>
-	<em>Human Perspectives on Spoken Human-Machine Interaction Conference</em><br>
+	<em>Human Perspectives on Spoken Human-Machine Interaction Conference</em>
 	[<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Conference website</a>]</dd>
 </dl>
 
 <dl>
 	<dt>2020-2022</dt>	
-	<dd><strong>Member</strong> <i>ISCA Distinguished Lecturer Selection Committee</i><br>
+	<dd><strong>Member</strong> <i>ISCA Distinguished Lecturer Selection Committee</i>
 	[<a href="https://www.isca-speech.org/Distinguished-Lecturers" target="_blank" rel="noopener">ISCA website: Distinguished Lecturers</a>]</dd>
 </dl>
 
@@ -95,8 +95,8 @@ permalink: /cv/
 			<li>2018-2022: <em>Board Member</em></li>
 			<li>2016-2017: <em>Volunteer</em></li>
 		</ul>
-	ISCA-SAC organizes student events at the annual ISCA Interspeech conference.<br>
-	[<a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA-SAC website</a>]<br>
+	ISCA-SAC organizes student events at the annual ISCA Interspeech conference.
+	[<a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA-SAC website</a>]
 	</dd>
 	
 </dl>
@@ -104,15 +104,15 @@ permalink: /cv/
 <dl>
 	<dt>2016-2022</dt>	
 	<dd><strong>Associated member</strong> <i>SFB 1102: Information Density and Linguistic Encoding</i> and its Integrated Research Training Group (IGK)<br>
-	<em>Saarland University, Saarbrücken, Germany</em><br>
-	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]<br>
+	<em>Saarland University, Saarbrücken, Germany</em>
+	[<a href="http://www.sfb1102.uni-saarland.de/" target="_blank" rel="noopener">SFB 1102 website</a>]
 	</dd>
 </dl>
 
 <dl>
 	<dt>2016-2017</dt>	
 	<dd><strong>Local Organizer</strong>
-	<em>Young Researchers' Roundtable on Spoken Dialogue Systems (YRRSDS)</em><br>
+	<em>Young Researchers' Roundtable on Spoken Dialogue Systems (YRRSDS)</em>
 	</dd> 
 </dl>
 
@@ -120,7 +120,7 @@ permalink: /cv/
 	<dt>2013-2022</dt>	
 	<dd><strong>Newsreader</strong>
 	<em>atz Hörmedien für Sehbehinderte und Blinde e.V.</em><br>
-	MIKS - an audio journal for visually impaired and blind people that makes local news accessible.<br>
+	MIKS - an audio journal for visually impaired and blind people that makes local news accessible.
 	[<a href="https://www.blindenzeitung.de/index.php/service/auskunft-2?eid=241" target="_blank" rel="noopener">atz website: MIKS</a>]</dd>
 </dl>
 
