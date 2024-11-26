@@ -117,7 +117,7 @@ permalink: /cv/
 	<dt>2013-2022</dt>	
 	<dd><strong>Newsreader</strong>
 	<a href="https://www.blindenzeitung.de/index.php/service/auskunft-2?eid=241" target="_blank" rel="noopener">atz Hörmedien für Sehbehinderte und Blinde e.V.</a><br>
-	MIKS - an audio journal for visually impaired and blind people that makes local news accessible.
+	MIKS &mdash; an audio journal for visually impaired and blind people that makes local news accessible.
 	</dd>
 </dl>
 
