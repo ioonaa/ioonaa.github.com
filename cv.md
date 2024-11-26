@@ -69,13 +69,15 @@ permalink: /cv/
 <dl>
 	<dt>since 2021</dt>	
 	<dd><strong>Co-chair</strong>
-	<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener">Young Female Researchers in Speech Workshop</a></dd>
+	<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener">Young Female Researchers in Speech Workshop</a><br>
+	<em>Brno, Czechia (2021), Incheon, Korea (2022), Dublin, Ireland (2023), Kos Island, Greece (2024)</em></dd>
 </dl>
 
 <dl>
 	<dt>2021</dt>	
 	<dd><strong>Co-chair</strong>
-	<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Human Perspectives on Spoken Human-Machine Interaction Conference</a></dd>
+	<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Human Perspectives on Spoken Human-Machine Interaction Conference</a><br>
+	<em>University of Freiburg, Germany</em></dd>
 </dl>
 
 <dl>
@@ -85,7 +87,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2016-2022</dt>	
-	<dd><strong>ISCA Student Advisory Committee (ISCA-SAC)</strong>
+	<dd><a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener"><strong>ISCA Student Advisory Committee (ISCA-SAC)</strong></a>
 		<ul>
 			<li>2021-2022: <em>Advisor</em></li>
 			<li>2020: <em>General Coordinator</em></li>
@@ -93,7 +95,6 @@ permalink: /cv/
 			<li>2016-2017: <em>Volunteer</em></li>
 		</ul>
 	ISCA-SAC organizes student events at the annual ISCA Interspeech conference.
-	[<a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA-SAC website</a>]
 	</dd>
 	
 </dl>
@@ -108,7 +109,8 @@ permalink: /cv/
 <dl>
 	<dt>2016-2017</dt>	
 	<dd><strong>Local Organizer</strong>
-	<em>Young Researchers' Roundtable on Spoken Dialogue Systems (YRRSDS)</em>
+	Young Researchers' Roundtable on Spoken Dialogue Systems (YRRSDS)<br>
+	<em>Saarland University, Saarbrücken, Germany</em>
 	</dd> 
 </dl>
 
