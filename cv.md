@@ -69,21 +69,18 @@ permalink: /cv/
 <dl>
 	<dt>since 2021</dt>	
 	<dd><strong>Co-chair</strong>
-	<em>Young Female Researchers in Speech Workshop</em>
-	[<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener">Workshop website</a>]</dd>
+	<a href="https://sites.google.com/view/yfrsw-2024" target="_blank" rel="noopener"><em>Young Female Researchers in Speech Workshop</em></a></dd>
 </dl>
 
 <dl>
 	<dt>2021</dt>	
 	<dd><strong>Co-chair</strong>
-	<em>Human Perspectives on Spoken Human-Machine Interaction Conference</em>
-	[<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Conference website</a>]</dd>
+	<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener"><i>Human Perspectives on Spoken Human-Machine Interaction Conference</i></a></dd>
 </dl>
 
 <dl>
 	<dt>2020-2022</dt>	
-	<dd><strong>Member</strong> <i>ISCA Distinguished Lecturer Selection Committee</i>
-	[<a href="https://www.isca-speech.org/Distinguished-Lecturers" target="_blank" rel="noopener">ISCA website: Distinguished Lecturers</a>]</dd>
+	<dd><strong>Member</strong> <a href="https://www.isca-speech.org/Distinguished-Lecturers" target="_blank" rel="noopener"><i>ISCA Distinguished Lecturer Selection Committee</i></a></dd>
 </dl>
 
 <dl>
