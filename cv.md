@@ -76,27 +76,27 @@ permalink: /cv/
 <dl>
 	<dt>2021</dt>	
 	<dd><strong>Co-organizer</strong>
-	<em>Conference: Human Perspectives on Spoken Human-Machine Interaction</em><br>
+	<em>Human Perspectives on Spoken Human-Machine Interaction Conference</em><br>
 	[<a href="https://www.frias.uni-freiburg.de/de/veranstaltungen/nachwuchskonferenzen/SpoHuMa21" target="_blank" rel="noopener">Conference website</a>]</dd>
 </dl>
 
 <dl>
 	<dt>2020-2022</dt>	
 	<dd><strong>ISCA Distinguished Lecturer Selection Committee</strong><br>
-	<em>Representative of SAC</em><br>
+	<em>Representative of ISCA-SAC</em><br>
 	[<a href="https://www.isca-speech.org/Distinguished-Lecturers" target="_blank" rel="noopener">ISCA website: Distinguished Lecturers</a>]</dd>
 </dl>
 
 <dl>
 	<dt>2016-2022</dt>	
-	<dd><strong>ISCA Student Advisory Committee</strong>
+	<dd><strong>ISCA Student Advisory Committee (ISCA-SAC)</strong>
 		<ul>
 			<li>2021-2022: <em>Advisor</em></li>
 			<li>2020: <em>General Coordinator</em></li>
 			<li>2018-2022: <em>Board Member</em></li>
 			<li>2016-2017: <em>Volunteer</em></li>
 		</ul>
-	We are organizing student events for the annual Interspeech conference.<br>
+	ISCA-SAC organizes student events at the annual ISCA Interspeech conference.<br>
 	[<a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA-SAC website</a>]<br>
 	</dd>
 	
@@ -113,8 +113,8 @@ permalink: /cv/
 <dl>
 	<dt>2016-2017</dt>	
 	<dd><strong>Local Organizer</strong><br>
-	<em>Young Researchers' Roundtable on Spoken Dialogue Systems</em><br>
-	I was a local organizer for the 2017 YRRSDS in Saarbrücken, Germany.
+	<em>Young Researchers' Roundtable on Spoken Dialogue Systems (YRRSDS)</em><br>
+	Local organizer for the 2017 YRRSDS in Saarbrücken, Germany.
 	</dd> 
 </dl>
 
