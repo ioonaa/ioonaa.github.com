@@ -87,7 +87,7 @@ permalink: /cv/
 
 <dl>
 	<dt>2016-2022</dt>	
-	<dd><a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener"><strong>ISCA Student Advisory Committee (ISCA-SAC)</strong></a>
+	<dd><strong>Member</strong> <a href="http://www.isca-students.org/sacweb/" target="_blank" rel="noopener">ISCA Student Advisory Committee (ISCA-SAC)</a>
 		<ul>
 			<li>2021-2022: <em>Advisor</em></li>
 			<li>2020: <em>General Coordinator</em></li>
