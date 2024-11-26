@@ -42,7 +42,7 @@ permalink: /cv/
 <dl>
 	<dt>2016-2022</dt>	
 	<dd><strong>Research Associate</strong>, <em>Saarland University, Saarbrücken, Germany</em><br>
-	Department of Language Science and Technology, Phonetics and Phonology group<br>
+	Department of Language Science and Technology, Phonetics group<br>
 	Project: <a href="https://ioonaa.github.io/chicproject/" target="_blank" rel="noopener">CHIC - Phonetic Convergence in Human-Computer Interaction</a>, funded by Deutsche Forschungsgemeinschaft (DFG)</dd>
 </dl>
 
