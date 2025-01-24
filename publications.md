@@ -118,7 +118,9 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
 
    <dt>Conference posters</dt>
    
-   <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: UK and Ireland Speech, July 1-2, Cambridge/UK.<br> [Conference, Abstract, Poster]</dd>
+   <dd><strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2025): <em>How Transformer-Based ASR Models Handle Diverse Signal Perturbations on the Segmental Level.</em> In: ISCA/ITG Workshop on Diversity in Large Speech and Language Models, February 20, Berlin/Germany.<br> [Workshop, Abstract, Poster]</dd>
+   
+   <dd><strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: UK and Ireland Speech, July 1-2, Cambridge/UK.<br> [Conference, Abstract, Poster]</dd>
    
    <dd><strong>I. Gessinger</strong> and B. R. Cowan (2023): <em>Prosody in Referential Communication with a Human or a Computer Partner.</em> In: UK Speech, June 14-15, Sheffield/UK.<br> [Conference, Abstract, Poster]</dd>
 
