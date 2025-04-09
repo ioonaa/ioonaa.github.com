@@ -22,7 +22,7 @@ permalink: /contact/
 
 
 ![Foto]({{ site.url }}/images/ucd.jpg "UCD"){:height="260px" .center-image}
-University College Dublin, Belfield
+<p><center>University College Dublin, Belfield</center></p>
 
 <!--
     <tr>
