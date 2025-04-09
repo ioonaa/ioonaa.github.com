@@ -11,6 +11,8 @@ permalink: /contact/
       <td>Dr Iona Gessinger <br>
         Johannes Gutenberg-Universität Mainz <br> 
         Romanisches Seminar <br>
+        Jakob-Welder-Weg 18 <br>
+        55099 Mainz <br>
         Germany </td>
     </tr>
     <tr>
