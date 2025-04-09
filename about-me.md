@@ -4,7 +4,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
-I am a postdoctoral researcher with <a href="https://www.romanistik.uni-mainz.de/gabriel/" target="_blank" rel="noopener">Prof. Christoph Gabriel</a> at <a href="https://www.uni-mainz.de/" target="_blank" rel="noopener">Johannes Gutenberg University Mainz</a>. 
+I am a postdoctoral researcher with <a href="https://www.romanistik.uni-mainz.de/gabriel/" target="_blank" rel="noopener">Prof. Christoph Gabriel</a> at <a href="https://www.uni-mainz.de/" target="_blank" rel="noopener">Johannes Gutenberg University Mainz</a>, where we investigate the intonational phonology of Judeo‑Spanish spoken in Bulgaria.
 
 Prior to my current position, I worked with <a href="https://people.ucd.ie/julie.berndsen" target="_blank" rel="noopener">Prof. Julie Berndsen</a> in the <a href="https://www.ucd.ie/cs/" target="_blank" rel="noopener">School of Computer Science</a> at <a href="https://www.ucd.ie/" target="_blank" rel="noopener">University College Dublin (UCD)</a> and <a href="https://people.ucd.ie/benjamin.cowan" target="_blank" rel="noopener">Assoc. Prof. Benjamin Cowan</a> in the <a href="https://www.hci.ucd.ie/" target="_blank" rel="noopener">HCI@UCD group</a> at the <a href="https://www.ucd.ie/ics/" target="_blank" rel="noopener">UCD School of Information and Communication Studies</a>.
 During my time in Dublin, I was affiliated with the <a href="https://www.adaptcentre.ie/" target="_blank" rel="noopener">ADAPT Centre for AI-Driven Digital Content Technology</a>.
