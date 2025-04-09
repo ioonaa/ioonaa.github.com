@@ -6,6 +6,7 @@ permalink: /contact/
 
 <table>
   <tbody>
+    
     <tr>
       <td>Address:</td>
       <td>Dr Iona Gessinger <br>
@@ -18,11 +19,13 @@ permalink: /contact/
       <td>E-mail:</td>
       <td>iona DOT gessinger AT uni-mainz DOT de</td>
     </tr>
+    
   </tbody>
 </table>
 
 
 ![Foto]({{ site.url }}/images/ucd.jpg "UCD"){:height="260px" .center-image}
+
 <!--
     <tr>
       <td>Office:</td>
@@ -32,7 +35,6 @@ permalink: /contact/
       <td>Telephone:</td>
       <td>TBA</td>
     </tr>
-
       <tr>
       <td>Website:</td>
       <td><a href="https://people.ucd.ie/iona.gessinger" target="_blank" rel="noopener">https://people.ucd.ie/iona.gessinger</a></td>
