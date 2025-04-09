@@ -29,11 +29,19 @@ permalink: /cv/
 ## Work
 
 <dl>
-	<dt>since 2022</dt>	
+	<dt>since 2025</dt>	
+	<dd><strong>Postdoctoral Researcher</strong>, <em>Johannes Gutenberg University Mainz, Germany</em><br>
+	Romanisches Seminar</a>
+	</dd>
+</dl>
+
+
+<dl>
+	<dt>2022-2025</dt>	
 	<dd><strong>Postdoctoral Researcher</strong>, <em>University College Dublin, Ireland</em><br>
 	Affiliated with the <a href="https://www.adaptcentre.ie/" target="_blank" rel="noopener">ADAPT Centre for AI-Driven Digital Content Technology</a>
 	<ul>
-		<li>since 2023: School of Computer Science, Berndsen lab</li>
+		<li>2023-2025: School of Computer Science, Berndsen lab</li>
 		<li>2022-2023: School of Information and Communication Studies, HCI@UCD group</li>
 	</ul>
 	</dd>
