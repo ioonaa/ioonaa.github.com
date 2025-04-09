@@ -13,6 +13,16 @@ permalink: /contact/
         Romanisches Seminar <br>
         Germany </td>
     </tr>
+
+    <tr>
+      <td>E-mail:</td>
+      <td>iona DOT gessinger AT uni-mainz DOT de</td>
+    </tr>
+  </tbody>
+</table>
+
+
+![Foto]({{ site.url }}/images/ucd.jpg "UCD"){:height="260px" .center-image}
 <!--
     <tr>
       <td>Office:</td>
@@ -28,13 +38,4 @@ permalink: /contact/
       <td><a href="https://people.ucd.ie/iona.gessinger" target="_blank" rel="noopener">https://people.ucd.ie/iona.gessinger</a></td>
       </tr>
 -->
-      <tr>
-      <td>E-mail:</td>
-      <td>iona DOT gessinger AT uni-mainz DOT de</td>
-    </tr>
-  </tbody>
-</table>
-
-
-![Foto]({{ site.url }}/images/ucd.jpg "UCD"){:height="260px" .center-image}
 
