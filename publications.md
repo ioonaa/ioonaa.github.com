@@ -9,9 +9,9 @@ permalink: /publications/
    <dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen: <em>Under the Hood: Phonemic Restoration in
 Transformer-Based Automatic Speech Recognition.</em> Submitted to Computer Speech and Language.<br> [Journal] </dd>
 
-   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal] <span style="color:#699eb5">Accepted!</span> </dd>
+   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal] <span style="color:#699eb5">Accepted! &#127881;</span> </dd>
    
-   <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan: <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em> Submitted to ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>] <span style="color:#699eb5">Accepted!</span> </dd>
+   <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan: <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em> Submitted to ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>] <span style="color:#699eb5">Accepted! &#127881;</span> </dd>
    <p></p>
    
    <dt>Dissertation</dt>
