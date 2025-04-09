@@ -6,7 +6,7 @@ permalink: /aboutme/
 
 I am a postdoctoral researcher with <a href="https://www.romanistik.uni-mainz.de/gabriel/" target="_blank" rel="noopener">Prof. Christoph Gabriel</a> at <a href="https://www.uni-mainz.de/" target="_blank" rel="noopener">Johannes Gutenberg University Mainz</a> (Romanisches Seminar), where we investigate the intonational phonology of Judeo‑Spanish varieties spoken in Bulgaria.
 
-Prior to my current position, I worked with <a href="https://people.ucd.ie/julie.berndsen" target="_blank" rel="noopener">Prof. Julie Berndsen</a> in the <em>School of Computer Science</em> at <a href="https://www.ucd.ie/" target="_blank" rel="noopener">University College Dublin (UCD)</a> and <a href="https://people.ucd.ie/benjamin.cowan" target="_blank" rel="noopener">Assoc. Prof. Benjamin Cowan</a> in the <em>HCI@UCD</em> group at the <em>UCD School of Information and Communication Studies</em>.
+Prior to my current position, I worked with <a href="https://people.ucd.ie/julie.berndsen" target="_blank" rel="noopener">Prof. Julie Carson-Berndsen</a> in the <em>School of Computer Science</em> at <a href="https://www.ucd.ie/" target="_blank" rel="noopener">University College Dublin (UCD)</a> and <a href="https://people.ucd.ie/benjamin.cowan" target="_blank" rel="noopener">Prof. Benjamin Cowan</a> in the <em>HCI@UCD</em> group at the <em>UCD School of Information and Communication Studies</em>.
 During my time in Dublin, I was affiliated with the <a href="https://www.adaptcentre.ie/" target="_blank" rel="noopener">ADAPT Centre for AI-Driven Digital Content Technology</a>.
 
 ![Foto]({{ site.url }}/images/iona_5.jpg "Iona Gessinger"){:height="260px" .center-image}
