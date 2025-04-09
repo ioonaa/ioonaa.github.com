@@ -6,7 +6,6 @@ permalink: /contact/
 
 <table>
   <tbody>
-    
     <tr>
       <td>Address:</td>
       <td>Dr Iona Gessinger <br>
@@ -14,12 +13,10 @@ permalink: /contact/
         Romanisches Seminar <br>
         Germany </td>
     </tr>
-
     <tr>
       <td>E-mail:</td>
       <td>iona DOT gessinger AT uni-mainz DOT de</td>
     </tr>
-    
   </tbody>
 </table>
 
