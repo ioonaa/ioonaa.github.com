@@ -7,7 +7,7 @@ permalink: /publications/
 
    <dt>Under Review</dt>
    <dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen: <em>Under the Hood: Phonemic Restoration in
-Transformer-Based Automatic Speech Recognition.</em> Submitted to Computer Speech and Language.<br> [Journal] <span style="color:#699eb5">Accepted!</span> </dd>
+Transformer-Based Automatic Speech Recognition.</em> Submitted to Computer Speech and Language.<br> [Journal] </dd>
 
    <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal] <span style="color:#699eb5">Accepted!</span> </dd>
    
