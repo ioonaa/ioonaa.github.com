@@ -17,7 +17,7 @@ Transformer-Based Automatic Speech Recognition.</em> Submitted to Computer Speec
    
    <dt>Journal articles</dt>
 
-   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal] <span style="color:#699eb5">Accepted! &#127881;</span> </dd>
+   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <a href="https://journals.sagepub.com/doi/epub/10.1177/00238309251341895" target="_blank" rel="noopener"><em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em></a> In: Language and Speech.<br> [Journal, <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener">DOI</a>] </dd>
    
    <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan (2025): <a href="https://dl.acm.org/doi/pdf/10.1145/3729170" target="_blank" rel="noopener"><em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em></a> In: ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.1145/3729170" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>] </dd>
 
