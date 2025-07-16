@@ -8,11 +8,6 @@ permalink: /publications/
    <dt>Under Review</dt>
    <dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen: <em>Under the Hood: Phonemic Restoration in
 Transformer-Based Automatic Speech Recognition.</em> Submitted to Computer Speech and Language.<br> [Journal, <a href="https://ssrn.com/abstract=5212722 " target="_blank" rel="noopener">SSRN</a>] </dd>
- 
-   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal] <span style="color:#699eb5">Accepted! &#127881;</span> </dd>
-   
-   <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan: <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em> Submitted to ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>] <span style="color:#699eb5">Accepted! &#127881;</span> </dd>
-   <p></p>
    
    <dt>Dissertation</dt>
 
@@ -21,6 +16,10 @@ Transformer-Based Automatic Speech Recognition.</em> Submitted to Computer Speec
    <p></p>
    
    <dt>Journal articles</dt>
+
+   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan: <em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em> Submitted to Language and Speech.<br> [Journal] <span style="color:#699eb5">Accepted! &#127881;</span> </dd>
+   
+   <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan (2025): <em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em> In: ACM Transactions on Computer-Human Interaction.<br> [Journal, <a href="https://doi.org/10.1145/3729170" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>] </dd>
 
    <dd> <strong>I. Gessinger</strong>, K. Seaborn, M. Steeds, B. R. Cowan (2025): <a href="https://www.sciencedirect.com/science/article/abs/pii/S1071581924001836" target="_blank" rel="noopener"><em>ChatGPT and Me: First-Time and Experienced Users' Perceptions of ChatGPT's Communicative Ability as a Dialogue Partner.</em></a> In: International Journal of Human-Computer Studies 194, 103400.<br> [Journal, <a href="https://doi.org/10.1016/j.ijhcs.2024.103400" target="_blank" rel="noopener">DOI</a>, <a href="http://dx.doi.org/10.2139/ssrn.4829547" target="_blank" rel="noopener">SSRN</a>]</dd>
  
