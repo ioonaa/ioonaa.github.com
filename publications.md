@@ -8,8 +8,8 @@ permalink: /publications/
    <dt>Under Review</dt>
    <dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen: <em>Under the Hood: Phonemic Restoration in
 Transformer-Based Automatic Speech Recognition.</em> Submitted to Computer Speech and Language.<br> [Journal, <a href="https://ssrn.com/abstract=5212722 " target="_blank" rel="noopener">SSRN</a>] </dd>
-      
-      <p></p>
+
+   <p></p>
       
    <dt>Dissertation</dt>
 
