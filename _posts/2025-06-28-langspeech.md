@@ -11,6 +11,6 @@ In this study, we explore whether individuals with thinner mental boundaries are
 their conversation partners. Our results suggest that speakers may accommodate to different types of phonetic 
 features depending on their personality structure.
 
-We look forward to further research investigating how individual personality differences influence accommodation behaviour - for example, using the short version of the German Boundary Questionnaire we provided. &#128064; 
+We look forward to further research investigating how individual personality differences influence accommodation behaviour - for example, using the German Boundary Questionnaire version we provided. &#128064; 
 
 &#128214; The article is available <strong><a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener">online</a></strong>. <em>#openaccess</em> &#128275;
