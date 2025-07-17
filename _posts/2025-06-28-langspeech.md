@@ -13,5 +13,4 @@ features depending on their personality structure.
 
 We look forward to further research investigating how individual personality differences shape accommodation behavior. &#128064; 
 
-&#128214; Read more here: <strong><a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener">online</a></strong>. 
-&#128214; <em>#openaccess</em> &#128275;
+&#128214; The article is available <strong><a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener">online</a></strong>. <em>#openaccess</em> &#128275;
