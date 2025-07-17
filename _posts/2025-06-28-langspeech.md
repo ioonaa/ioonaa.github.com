@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Language and Speech article published! &#127881;
+title: New publication! &#127881;
 ---
 
 I am delighted to share that our article <strong>Exploring the Relationship Between Mental Boundary Strength 
