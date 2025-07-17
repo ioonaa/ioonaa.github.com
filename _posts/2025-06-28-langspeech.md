@@ -12,4 +12,4 @@ The article is available <strong><a href="https://doi.org/10.1177/00238309251341
 their conversation partners. Our results suggest that speakers may accommodate to different types of phonetic 
 features depending on their personality structure.
 
-&#128064; We look forward to further research investigating how individual personality differences influence accommodation behaviour &mdash; for example, using the German Boundary Questionnaire version we provided.
+&#128064; We look forward to further research investigating how individual personality differences influence accommodation behaviour &mdash; for example, using the <strong>German Boundary Questionnaire</strong> version we provided.
