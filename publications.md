@@ -18,7 +18,7 @@ permalink: /publications/
    
    <dt>Journal articles</dt>
 
-<dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2025): <em>Under the Hood: Phonemic Restoration in Transformer-Based Automatic Speech Recognition.</em> Submitted to Computer Speech and Language.<br> [Journal, <a href="https://ssrn.com/abstract=5212722 " target="_blank" rel="noopener">SSRN</a>, accepted for publication] </dd>
+<dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2025): <em>Under the Hood: Phonemic Restoration in Transformer-Based Automatic Speech Recognition.</em> Accepted for publication at Computer Speech and Language.<br> [Journal, <a href="https://ssrn.com/abstract=5212722 " target="_blank" rel="noopener">SSRN</a>] </dd>
 
    <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan (2025): <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener"><em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em></a> In: Language and Speech.<br> [Journal, <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener">DOI</a>] </dd>
    
@@ -121,7 +121,9 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
    <p></p>
 
    <dt>Conference posters</dt>
-   
+
+    <dd> <strong>I. Gessinger</strong>, C. Gabriel, B. Andreeva, M. Sabev, J. Grünke (2025): <em>Question Intonation in Bilingual Speakers of Bulgarian and Judeo-Spanish.</em> In: Phonetik und Phonologie 21, Oktober 6–7, Leipzig/Germany.<br> [Conference, Abstract, Poster]</dd>
+    
    <dd><strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2025): <em>How Transformer-Based ASR Models Handle Diverse Signal Perturbations on the Segmental Level.</em> In: ISCA/ITG Workshop on Diversity in Large Speech and Language Models, February 20, Berlin/Germany.<br> [Workshop, Abstract, Poster]</dd>
    
    <dd><strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: UK and Ireland Speech, July 1-2, Cambridge/UK.<br> [Conference, Abstract, Poster]</dd>
