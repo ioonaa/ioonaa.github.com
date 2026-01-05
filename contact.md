@@ -17,7 +17,7 @@ permalink: /contact/
     </tr>
     <tr>
       <td>E-mail:</td>
-      <td>gessinger AT lst.uni-saarland DOT de</td>
+      <td>gessinger AT lst DOT uni-saarland DOT de</td>
     </tr>
   </tbody>
 </table>
