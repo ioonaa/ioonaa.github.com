@@ -9,15 +9,15 @@ permalink: /contact/
     <tr>
       <td>Address:</td>
       <td>Dr Iona Gessinger <br>
-        Johannes Gutenberg-Universität Mainz <br> 
-        Romanisches Seminar <br>
-        Jakob-Welder-Weg 18 <br>
-        55099 Mainz <br>
+        Universität des Saarlandes <br> 
+        Sprachwissenschaft und Sprachtechnologie <br>
+        Campus C7.2 <br>
+        66123 Saarbrücken <br>
         Germany </td>
     </tr>
     <tr>
       <td>E-mail:</td>
-      <td>iona DOT gessinger AT uni-mainz DOT de</td>
+      <td>gessinger AT lst.uni-saarland DOT de</td>
     </tr>
   </tbody>
 </table>
