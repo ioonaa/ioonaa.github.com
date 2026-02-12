@@ -30,10 +30,11 @@ permalink: /cv/
 
 <dl>
 	<dt>since 2025</dt>	
-	<dd><strong>Postdoctoral Researcher</strong>, <em>Johannes Gutenberg University Mainz, Germany</em><br>
-	Romanisches Seminar <br> 
+	<dd><strong>Postdoctoral Researcher</strong><br> 
+	<em>Johannes Gutenberg University Mainz, Germany</em><br>
+	Romanisches Seminar<br> 
 	<em>Saarland University, Saarbrücken, Germany</em><br>
-	Language Science and Technology
+	Language Science and Technology<br>
 	Project: Judeo-Spanish in Bulgaria: a contact language between archaism and innovation, funded by Deutsche Forschungsgemeinschaft (DFG)
 	</dd>
 </dl>
