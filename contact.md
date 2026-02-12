@@ -23,8 +23,8 @@ permalink: /contact/
 </table>
 
 
-![Foto]({{ site.url }}/images/ucd.jpg "UCD"){:height="260px" .center-image}
-<p><center>University College Dublin, Belfield</center></p>
+![Foto]({{ site.url }}/images/c72.jpg "UdS, C72"){:height="260px" .center-image}
+<p><center>Saarland University, Saarbrücken</center></p>
 
 <!--
     <tr>
