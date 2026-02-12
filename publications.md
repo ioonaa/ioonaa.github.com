@@ -92,6 +92,10 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
    
    <dt>Invited talks</dt>
 
+   <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium des SFB 1646, June 18, 2026, Bielefeld/Germany.<br> [Colloquium, Talk]</dd>
+   
+   <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium der Bereiche Korpuslinguistik und Phonetik, February 4, 2026, Berlin/Germany.<br> [Colloquium, Talk]</dd>
+   
    <dd><em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, 2022, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
 
    <dd><em>Cross-Cultural Comparison of Gradient Emotion Perception.</em> In: Research Colloquium of the Multilinguality and Language Technology (MLT) group at the German Research Centre for Artificial Intelligence (DFKI), August 16, 2022, Saarbrücken/Germany.<br> [Colloquium, Talk]</dd>
@@ -104,6 +108,8 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
    
    <dt>Conference talks</dt>
 
+   <dd><strong>I. Gessinger</strong>, C. Gabriel,  B. Andreeva, M. Sabev, J. Grünke (2025): <em>Question Intonation in Bilingual Speakers of Bulgarian and Judeo-Spanish.</em> In: 49. Öster­rei­chi­sche Lin­guis­tik­ta­gung 2025 (ÖLT), December 5-8, Klagenfurt/Austria.<br> [Conference, Abstract, Talk]</dd>
+   
    <dd><strong>I. Gessinger</strong>, E. A. Shams,  J. Carson-Berndsen (2024): <em>Phonetics and Phonology inside the Black Box.</em> In: 10th Biennial International Conference on the Linguistics of Contemporary English (BICLCE), September 26-28, Alicante/Spain.<br> [Conference, Abstract, Talk]</dd>
 
    <dd><strong>I. Gessinger</strong> (2020): <em>Phonetic Accommodation in Interaction with a Virtual Language Learning Tutor.</em> In: PhD Day SFB 1102, February 10, Saarbrücken/Germany.<br> [Colloquium, Abstract, Talk]</dd>
