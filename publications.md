@@ -5,8 +5,9 @@ permalink: /publications/
 ---
 
 
-   <dt>Under Review</dt>
-   
+   <dt>Upcoming talks</dt>
+
+   <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium des SFB 1646, June 18, 2026, Bielefeld/Germany.<br> [Colloquium, Talk]</dd>
 
    <p></p>
       
@@ -91,8 +92,6 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
    <p></p>
    
    <dt>Invited talks</dt>
-
-   <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium des SFB 1646, June 18, 2026, Bielefeld/Germany.<br> [Colloquium, Talk]</dd>
    
    <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium der Bereiche Korpuslinguistik und Phonetik, February 4, 2026, Berlin/Germany.<br> [Colloquium, Talk]</dd>
    
