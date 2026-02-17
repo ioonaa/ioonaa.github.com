@@ -8,7 +8,7 @@ We had a very good time on Kos Island in Greece!
 
 ![Foto]({{ site.url }}/images/interspeech_2024.jpg "Interspeech 2024 impressions"){:height="400" .center-image}
 
-With my dear colleagues, <strong>Margot Masson</strong>, <strong>Patrick Cormac English</strong>, and <strong>Erfan Amirzadeh Shams</strong>, we presented recent work from the <strong>Berndsen Lab</strong> at University College Dublin:
+With my dear colleagues, <strong>Margot Masson</strong>, <strong>Patrick Cormac English</strong>, and <strong>Erfan A. Shams</strong>, we presented recent work from the <strong>Berndsen Lab</strong> at University College Dublin:
 <ul>
   <li><a href="https://www.isca-archive.org/interspeech_2024/shams24_interspeech.pdf" target="_blank" rel="noopener">Are Articulatory Feature Overlaps Shrouded in Speech Embeddings?</a></li>
   <li><a href="https://www.isca-archive.org/interspeech_2024/masson24_interspeech.pdf" target="_blank" rel="noopener">PhoneViz: exploring alignments at a glance</a></li> 
