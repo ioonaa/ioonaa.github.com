@@ -13,7 +13,7 @@ permalink: /publications/
 
    <dt>In preparation</dt>
 
-   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience </em>.</dd>
+   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience</em>.</dd>
    
    <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke: <em>Asking across Languages: Question Intonation in Bilingual Speakers of Judeo-Spanish and Bulgarian</em>.</dd>
 
