@@ -10,6 +10,17 @@ permalink: /publications/
    <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium des SFB 1646, June 18, 2026, Bielefeld/Germany.<br> [Colloquium, Talk]</dd>
 
    <p></p>
+
+   <dt>In preparation</dt>
+
+   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience </em>.</dd>
+   
+   <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke: <em>Asking across Languages: Question Intonation in Bilingual Speakers of Judeo-Spanish and Bulgarian</em>.</dd>
+
+   <dd> <strong>I. Gessinger</strong>, M. Cohn, G. Zellou: <em>Perceiving Degrees of Happiness in L1 and L2: A Comparison of
+      Human and Synthetic Speech</em>.</dd>
+
+   <p></p>
       
    <dt>Dissertation</dt>
 
@@ -19,7 +30,7 @@ permalink: /publications/
    
    <dt>Journal articles</dt>
 
-<dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2025): <em>Under the Hood: Phonemic Restoration in Transformer-Based Automatic Speech Recognition.</em> In: Computer Speech & Language 96, 101893.<br> [Journal, <a href="https://doi.org/10.1016/j.csl.2025.101893" target="_blank" rel="noopener">DOI</a>, <a href="https://ssrn.com/abstract=5212722" target="_blank" rel="noopener">SSRN</a>] </dd>
+<dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2025): <a href="https://www.sciencedirect.com/science/article/abs/pii/S0885230825001184" target="_blank" rel="noopener"><em>Under the Hood: Phonemic Restoration in Transformer-Based Automatic Speech Recognition.</em></a> In: Computer Speech & Language 96, 101893.<br> [Journal, <a href="https://doi.org/10.1016/j.csl.2025.101893" target="_blank" rel="noopener">DOI</a>, <a href="https://ssrn.com/abstract=5212722" target="_blank" rel="noopener">SSRN</a>] </dd>
 
    <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan (2025): <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener"><em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em></a> In: Language and Speech.<br> [Journal, <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener">DOI</a>] </dd>
    
