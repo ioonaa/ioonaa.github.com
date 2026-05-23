@@ -32,7 +32,7 @@ permalink: /publications/
 
 <dd> <strong>I. Gessinger</strong>, E. A. Shams, J. Carson-Berndsen (2025): <a href="https://www.sciencedirect.com/science/article/abs/pii/S0885230825001184" target="_blank" rel="noopener"><em>Under the Hood: Phonemic Restoration in Transformer-Based Automatic Speech Recognition.</em></a> In: Computer Speech & Language 96, 101893.<br> [Journal, <a href="https://doi.org/10.1016/j.csl.2025.101893" target="_blank" rel="noopener">DOI</a>, <a href="https://ssrn.com/abstract=5212722" target="_blank" rel="noopener">SSRN</a>] </dd>
 
-   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan (2025): <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener"><em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em></a> In: Language and Speech.<br> [Journal, <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener">DOI</a>] </dd>
+   <dd> <strong>I. Gessinger</strong>, N. Becker, B. R. Cowan (2025): <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener"><em>Exploring the Relationship between Mental Boundary Strength and Phonetic Accommodation.</em></a> In: Language and Speech 69(2), 479-504.<br> [Journal, <a href="https://doi.org/10.1177/00238309251341895" target="_blank" rel="noopener">DOI</a>] </dd>
    
    <dd> P. R. Doyle, <strong>I. Gessinger</strong>, J. Edwards, L. Clark, O. Dumbleton, D. Garaialde, D. Rough, A. Bleakley, B. R. Cowan (2025): <a href="https://dl.acm.org/doi/pdf/10.1145/3729170" target="_blank" rel="noopener"><em>The Partner Modelling Questionnaire: A Validated Self-Report Measure of Perceptions toward Machines as Dialogue Partners.</em></a> In: ACM Transactions on Computer-Human Interaction 32(4), 39.<br> [Journal, <a href="https://doi.org/10.1145/3729170" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.48550/arXiv.2308.07164" target="_blank" rel="noopener">arXiv</a>] </dd>
 
@@ -51,7 +51,7 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
 
    <dt>Conference articles</dt>
 
- <dd> <strong>I. Gessinger</strong>, Bistra Andreeva, Christoph Gabriel, Jonas Grünke (2026): <a href="https://www.isca-archive.org/speechprosody_2026/gessinger26_speechprosody.html" target="_blank" rel="noopener"><em>Question Intonation in Bilingual Speakers of Bulgarian and Judeo-Spanish.</em></a> In: Speech Prosody, May 26-29 2026, Philadelphia, Pennsylvania, USA, 397-401.<br> [Conference, Full Paper, Poster, <a href="http://10.21437/SpeechProsody.2026-80" target="_blank" rel="noopener">DOI</a>]</dd>
+ <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke (2026): <a href="https://www.isca-archive.org/speechprosody_2026/gessinger26_speechprosody.html" target="_blank" rel="noopener"><em>Question Intonation in Bilingual Speakers of Bulgarian and Judeo-Spanish.</em></a> In: Speech Prosody, May 26-29 2026, Philadelphia, Pennsylvania, USA, 397-401.<br> [Conference, Full Paper, Poster, <a href="https://10.21437/SpeechProsody.2026-80" target="_blank" rel="noopener">DOI</a>]</dd>
 
  <dd> J. He and <strong>I. Gessinger</strong> (2025): <a href="https://opendata.uni-halle.de/handle/1981185920/118667" target="_blank" rel="noopener"><em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em></a> In: Phonetik und Phonologie 20, October 1–2, 2024, Halle/Germany, 55-63.<br> [Conference, Full Paper, Poster, <a href="http://dx.doi.org/10.25673/116710" target="_blank" rel="noopener">DOI</a>]</dd>
  
