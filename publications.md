@@ -51,7 +51,7 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
 
    <dt>Conference articles</dt>
 
- <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke (2026): <a href="https://www.isca-archive.org/speechprosody_2026/gessinger26_speechprosody.html" target="_blank" rel="noopener"><em>Question Intonation in Bilingual Speakers of Bulgarian and Judeo-Spanish.</em></a> In: Speech Prosody, May 26-29 2026, Philadelphia, Pennsylvania, USA, 397-401.<br> [Conference, Full Paper, Poster, <a href="https://10.21437/SpeechProsody.2026-80" target="_blank" rel="noopener">DOI</a>]</dd>
+ <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke (2026): <a href="https://www.isca-archive.org/speechprosody_2026/gessinger26_speechprosody.html" target="_blank" rel="noopener"><em>Question Intonation in Bilingual Speakers of Bulgarian and Judeo-Spanish.</em></a> In: Speech Prosody, May 26-29 2026, Philadelphia, Pennsylvania, USA, 397-401.<br> [Conference, Full Paper, Poster, <a href="https://doi.org/10.21437/SpeechProsody.2026-80" target="_blank" rel="noopener">DOI</a>]</dd>
 
  <dd> J. He and <strong>I. Gessinger</strong> (2025): <a href="https://opendata.uni-halle.de/handle/1981185920/118667" target="_blank" rel="noopener"><em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em></a> In: Phonetik und Phonologie 20, October 1–2, 2024, Halle/Germany, 55-63.<br> [Conference, Full Paper, Poster, <a href="http://dx.doi.org/10.25673/116710" target="_blank" rel="noopener">DOI</a>]</dd>
  
