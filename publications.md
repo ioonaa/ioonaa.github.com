@@ -13,9 +13,9 @@ permalink: /publications/
 
    <dt>In preparation</dt>
 
-   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience</em>. Accepted for publication at CUI 2026.</dd>
+   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience</em>. Accepted for publication at the ACM Conference on Conversational User Interfaces 2026.</dd>
    
-   <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke: <em>Asking across Languages: Question Intonation in Bilingual Speakers of Judeo-Spanish and Bulgarian</em>. Submitted to Isogloss.</dd>
+   <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke: <em>Asking across Languages: Question Intonation in Bilingual Speakers of Judeo-Spanish and Bulgarian</em>. Submitted to Isogloss. Open Journal of Romance Linguistics.</dd>
 
    <dd> <strong>I. Gessinger</strong>, M. Cohn, G. Zellou: <em>Perceiving Degrees of Happiness in L1 and L2: A Comparison of
       Human and Synthetic Speech</em>.</dd>
