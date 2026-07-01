@@ -7,7 +7,7 @@ permalink: /publications/
 
    <dt>Upcoming talks</dt>
 
-   <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium des SFB 1646, June 18, 2026, Bielefeld/Germany.<br> [Colloquium, Talk]</dd>
+   <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium des SFB 1646, July 18, 2026, Bielefeld/Germany.<br> [Colloquium, Talk]</dd>
 
    <p></p>
 
