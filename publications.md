@@ -10,8 +10,7 @@ permalink: /publications/
    
    <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke: <em>Asking across Languages: Question Intonation in Bilingual Speakers of Judeo-Spanish and Bulgarian</em>. Submitted to Isogloss. Open Journal of Romance Linguistics.</dd>
 
-   <dd> <strong>I. Gessinger</strong>, M. Cohn, G. Zellou: <em>Perceiving Degrees of Happiness in L1 and L2: A Comparison of
-      Human and Synthetic Speech</em>.</dd>
+   <dd> <strong>I. Gessinger</strong>, M. Cohn, G. Zellou: <em>Listeners’ Evaluation of Human and Synthetic Speech in L1 and L2: Anthropomorphism and Emotion Perception</em>.</dd>
 
    <p></p>
       
