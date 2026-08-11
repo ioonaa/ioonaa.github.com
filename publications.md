@@ -5,15 +5,10 @@ permalink: /publications/
 ---
 
 
-   <dt>Upcoming talks</dt>
-
-   <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium des SFB 1646, July 18, 2026, Bielefeld/Germany.<br> [Colloquium, Talk]</dd>
 
    <p></p>
 
    <dt>In preparation</dt>
-
-   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience</em>. Accepted for publication at the ACM Conference on Conversational User Interfaces 2026.</dd>
    
    <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke: <em>Asking across Languages: Question Intonation in Bilingual Speakers of Judeo-Spanish and Bulgarian</em>. Submitted to Isogloss. Open Journal of Romance Linguistics.</dd>
 
@@ -51,6 +46,8 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
 
    <dt>Conference articles</dt>
 
+   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience</em>. In: ACM Conference on Conversational User Interfaces, July 21–24, Bremen/Germany, Article 35, 1-10.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.1145/3816046.3816201" target="_blank" rel="noopener">DOI</a>]</dd>
+   
  <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke (2026): <a href="https://www.isca-archive.org/speechprosody_2026/gessinger26_speechprosody.html" target="_blank" rel="noopener"><em>Question Intonation in Bilingual Speakers of Bulgarian and Judeo-Spanish.</em></a> In: Speech Prosody, May 26-29 2026, Philadelphia, Pennsylvania, USA, 397-401.<br> [Conference, Full Paper, Poster, <a href="https://doi.org/10.21437/SpeechProsody.2026-80" target="_blank" rel="noopener">DOI</a>]</dd>
 
  <dd> J. He and <strong>I. Gessinger</strong> (2025): <a href="https://opendata.uni-halle.de/handle/1981185920/118667" target="_blank" rel="noopener"><em>The Influence of Visual Context on the Perception of Voice Assistant Gender.</em></a> In: Phonetik und Phonologie 20, October 1–2, 2024, Halle/Germany, 55-63.<br> [Conference, Full Paper, Poster, <a href="http://dx.doi.org/10.25673/116710" target="_blank" rel="noopener">DOI</a>]</dd>
@@ -105,7 +102,9 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
    <p></p>
    
    <dt>Invited talks</dt>
-   
+
+      <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium des SFB 1646, July 18, 2026, Bielefeld/Germany.<br> [Colloquium, Talk]</dd>
+      
    <dd><em>Tracing Articulatory Features in Automatic Speech Recognition Models.</em> In: Forschungskolloquium der Bereiche Korpuslinguistik und Phonetik, February 4, 2026, Berlin/Germany.<br> [Colloquium, Talk]</dd>
    
    <dd><em>Phonetic Accommodation in Interaction with a Virtual Agent.</em> In: HCI@UCD Research Seminar Series, October 21, 2022, Dublin/Ireland.<br> [Colloquium, Talk]</dd>
