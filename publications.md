@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-
-
    <p></p>
 
    <dt>In preparation</dt>
@@ -46,7 +44,7 @@ conversational speech transcription.</em></a> In: Research Methods in Applied Li
 
    <dt>Conference articles</dt>
 
-   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience</em>. In: ACM Conference on Conversational User Interfaces, July 21–24, Bremen/Germany, Article 35, 1-10.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3640794.3665537" target="_blank" rel="noopener">DOI</a>, <a href="https://doi.org/10.1145/3816046.3816201" target="_blank" rel="noopener">DOI</a>]</dd>
+   <dd> M. Steeds, K. Seaborn, T. Fujii, O. Cooney, <strong>I. Gessinger</strong>: <a href="https://www.isca-archive.org/speechprosody_2026/gessinger26_speechprosody.html" target="_blank" rel="noopener"><em>Is ChatGPT Gender-Neutral? Implicit Stereotyping Persists Over Time and With Experience.</em></a> In: ACM Conference on Conversational User Interfaces, July 21–24, Bremen/Germany, Article 35, 1-10.<br> [Conference, Full Paper, Talk, <a href="https://doi.org/10.1145/3816046.3816201" target="_blank" rel="noopener">DOI</a>]</dd>
    
  <dd> <strong>I. Gessinger</strong>, B. Andreeva, C. Gabriel, J. Grünke (2026): <a href="https://www.isca-archive.org/speechprosody_2026/gessinger26_speechprosody.html" target="_blank" rel="noopener"><em>Question Intonation in Bilingual Speakers of Bulgarian and Judeo-Spanish.</em></a> In: Speech Prosody, May 26-29 2026, Philadelphia, Pennsylvania, USA, 397-401.<br> [Conference, Full Paper, Poster, <a href="https://doi.org/10.21437/SpeechProsody.2026-80" target="_blank" rel="noopener">DOI</a>]</dd>
 
