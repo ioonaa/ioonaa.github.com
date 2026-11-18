@@ -8,3 +8,5 @@ I had a lot of fun visiting Bielefeld University to present our work on the expl
 in the colloquium of CRC 1646 Linguistic Creativity in Communication.
 
 ![Foto]({{ site.url }}/images/Bielefeld26.png "Bielefeld CRC Talk"){:height="160" .center-image}
+
+Many thanks to **Petra Wagner** and **Daniel Duran** for the invitation and for the interesting exchange!
